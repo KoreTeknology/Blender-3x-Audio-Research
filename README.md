@@ -12,12 +12,8 @@ Audio editing functions are currently non-existent in the software and the only 
 
 - [x] Personal documentation: [Tasks list](Tasks.md)
 - [x] Blender Fundation & Audaspace Library documentations: [External References](ext-references.md)
-- [x] Operator: [Gain Control](gain.md)
-- [x] Visualization: [Vu-Meters](vu-meter.md) 
-- [x] Operator: [Filters & EQs](filter.md) 
-- [x] Operator: [Compressor & limiter](compressor.md)
-- [x] Operator: [Reverb & Delay](compressor.md)
-- [x] Operator: [Spatial audio](spatial.md)
+- [x] Operators: [Gain Control](gain.md), [Filters & EQs](filter.md), [Compressor & limiter](compressor.md), [Reverb & Delay](compressor.md), [Spatial audio](spatial.md)
+- [x] Visualizations: [Vu-Meters](vu-meter.md), and others analysers
 - [x] Operator Extra: Standard MIDI 2.0 implementation for external control devices
 
 ---
