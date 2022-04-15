@@ -1,10 +1,12 @@
-# Blender-3x-Audio-Research
-Personal documentation & [Tasks list](Tasks.md)
+# Blender 3x Audio Research
+
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
 
 ## Ongoing works
 
+- [ ] Personal documentation & [Tasks list](Tasks.md)
+- [ ] BF documentation & [External References](ext-references.md)
 - [ ] [Gain Control](gain.md) **First stage dev**
 - [ ] [Vu-Meters](vu-meter.md) 
 - [ ] [Filters & EQs](filter.md) 
