@@ -24,6 +24,7 @@
 - Arcanist [Guide](https://wiki.blender.org/wiki/Tools/CodeReview#Use_Arcanist)
 - Audio VSE Fade Addon [Repo](https://github.com/snuq/VSEQF)
 - Blender Audacity Tools Addon [Repo](https://github.com/tin2tin/audacity_tools_for_blender)
+- VSE Sound Clip [RCS](https://blender.community/c/rightclickselect/vQ65/)
 
 
 TO BE CONTINUED...
