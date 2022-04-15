@@ -10,15 +10,15 @@ Audio editing functions are currently non-existent in the software and the only 
 
 ## Ongoing works
 
-- [ ] Personal documentation & [Tasks list](Tasks.md)
-- [ ] BF documentation & [External References](ext-references.md)
-- [ ] [Gain Control](gain.md) **First stage dev**
-- [ ] [Vu-Meters](vu-meter.md) 
-- [ ] [Filters & EQs](filter.md) 
-- [ ] [Compressor & limiter](compressor.md)
-- [ ] [Reverb & Delay](compressor.md)
-- [ ] [Spatial audio](spatial.md)
-- [ ] Extra: MIDI 2.0 implementation for external control devices
+- [x] Personal documentation: [Tasks list](Tasks.md)
+- [x] BLender Fundation & Audaspace Library documentation: [External References](ext-references.md)
+- [x] Operator: [Gain Control](gain.md)
+- [x] Visualization: [Vu-Meters](vu-meter.md) 
+- [x] Operator: [Filters & EQs](filter.md) 
+- [x] Operator: [Compressor & limiter](compressor.md)
+- [x] Operator: [Reverb & Delay](compressor.md)
+- [x] Operator: [Spatial audio](spatial.md)
+- [x] Operator Extra: Standard MIDI 2.0 implementation for external control devices
 
 ---
 
