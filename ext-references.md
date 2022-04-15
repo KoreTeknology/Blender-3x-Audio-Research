@@ -5,6 +5,7 @@
 - Blender code directories [Source](https://wiki.blender.org/wiki/Source/File_Structure)
 - Building Blender [Windows OS](https://wiki.blender.org/wiki/Building_Blender/Windows)
 - Coding style [Guide](https://wiki.blender.org/wiki/Style_Guide)
+- Patching [Guide](https://wiki.blender.org/wiki/Process/Contributing_Code)
 
 
 ## Audaspace
