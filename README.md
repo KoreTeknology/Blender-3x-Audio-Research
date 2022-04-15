@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This current documentation is intended to demonstrate the audio features needed in the context of editing audio files in the [Blender](https://www.blender.org/)
+This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/)
 
 ## Ongoing works
 
