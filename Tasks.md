@@ -1,6 +1,10 @@
 ## Project Tasks List
 
-- [x] Documentation Structure
+- [ ] Documentation Structure (this)
+- [ ] External references
+- [ ] Contexts and usages
+- [ ] Related code sources
+- [ ] Optional decision making
 
 
 
