@@ -1,7 +1,8 @@
 # Blender 3x Audio Research
 
-
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
+
+THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", THE SOURCE CODE GIVEN IN THIS DOCUMENT NO OFFERS ANY WARRANTIES AND CAN DAMAGE YOUR BLENDER INSTALLATION IN CASE YOU TRY TO IMPLEMENT IT WITHOUT CARE, PLEASE, BE AWARE OF!
 
 ## Introduction
 
