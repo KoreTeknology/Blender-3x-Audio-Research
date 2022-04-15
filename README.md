@@ -18,6 +18,7 @@ Audio editing functions are currently non-existent in the software and the only 
 - [ ] [Compressor & limiter](compressor.md)
 - [ ] [Reverb & Delay](compressor.md)
 - [ ] [Spatial audio](spatial.md)
+- [ ] Extra: MIDI 2.0 implementation for external control devices
 
 ---
 
