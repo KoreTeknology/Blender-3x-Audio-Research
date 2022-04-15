@@ -3,3 +3,5 @@ Features (preview):
 - Audio panel (N) with editing features
 - Audio nodes per channel
 - 2 sets of audio data: per strip/master
+
+Fade-in / Fade-out... see Python Addon
