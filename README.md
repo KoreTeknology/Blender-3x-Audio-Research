@@ -11,7 +11,7 @@ Audio editing functions are currently non-existent in the software and the only 
 ## Ongoing works
 
 - [x] Personal documentation: [Tasks list](Tasks.md)
-- [x] BLender Fundation & Audaspace Library documentation: [External References](ext-references.md)
+- [x] Blender Fundation & Audaspace Library documentations: [External References](ext-references.md)
 - [x] Operator: [Gain Control](gain.md)
 - [x] Visualization: [Vu-Meters](vu-meter.md) 
 - [x] Operator: [Filters & EQs](filter.md) 
