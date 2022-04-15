@@ -6,7 +6,7 @@
 ## Introduction
 
 This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/). 
-Audio editing functions are currently non-existent in the software and the only dedicated tools are present only in the context of video/audio strip editing in the VSE (Video Sequencer Editor). We want to add specific functions which will make it possible to work on the audio data by offering inputs, processing, visualizations and outputs to the internal components of the application.
+Audio editing functions are currently non-existent in the software and the only dedicated tools are present only in the context of video/audio strip editing in the VSE (Video Sequencer Editor). We want to add specific functions which will make it possible to work on the audio data by offering inputs, processing, control, visualizations and outputs as internal components within the application.
 
 ## Ongoing works
 
