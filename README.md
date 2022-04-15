@@ -3,6 +3,10 @@
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
 
+## Introduction
+
+This current documentation is intended to demonstrate the audio features needed in the context of editing audio files in the [Blender](https://www.blender.org/)
+
 ## Ongoing works
 
 - [ ] Personal documentation & [Tasks list](Tasks.md)
