@@ -11,7 +11,7 @@ Audio editing functions are currently non-existent in the software and the only 
 
 ## Ongoing works
 
-- [x] Personal documentation: [Tasks list](Tasks.md),  [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
+- [x] Personal documentation: [Concepts References](research-concepts-references.md), [Tasks list](Tasks.md),  [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] Blender Fundation & Audaspace Library documentations: [External References](ext-references.md)
 - [x] Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 - [x] Visualizations: [Vu-Meters](blender-audio-vumeter.md), Spectrum analysis, Stereo Images and others analysis tools
