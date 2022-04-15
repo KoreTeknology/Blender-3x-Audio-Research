@@ -1,5 +1,10 @@
 # Audaspace Related Specifications
 
+### Main Structure
+
+Audaspace is built within a specific concept of Hardware/software to be able to connect virtual audio players to sources and listeners
+
+
 ### The following (probably incomplete) features are supported by audaspace:
 
 - input/output devices: input from microphones, line in, etc., output devices including 3D audio support
@@ -26,6 +31,9 @@
 
 ### Classes included
 
-[Classes](https://audaspace.github.io/annotated.html)
+[ALL Classes](https://audaspace.github.io/annotated.html)
+
+- Mixer Class [reference](https://audaspace.github.io/classMixer.html)
+
 
 TO BE CONTINUED...
