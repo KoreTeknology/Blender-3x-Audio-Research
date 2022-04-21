@@ -16,6 +16,7 @@
 - Audaspace in Blender API 3.1x [BF documentation](https://docs.blender.org/api/3.1/aud.html)
 - Sound Operators in Blender API 3.1x [BF documentation](https://docs.blender.org/api/3.1/bpy.ops.sound.html)
 - Audio Nodes by neXyon [Blender Free Addon](https://github.com/neXyon/audionodes)
+- Audio Nodes by nomelif [Blender Free Addon](https://github.com/nomelif/Audionodes)
 - Audaspace repository by neXyon [High level audio library written in C++](https://github.com/neXyon/audaspace)
 
 ## Others
