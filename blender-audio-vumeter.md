@@ -8,7 +8,6 @@ First, we ned to place the level meters in the GUI. The audio section is linked 
 
 ## The options
 
-
 ### Option 1: Audio Vu-meters in the VSE per-channel
 
 At the Gui level, let´s look at the possible implementation. In the VSE, Blender offers a channel header [See Devlog: change D13836](https://developer.blender.org/D13836), and this area can be used to add several infos or tools.
@@ -16,7 +15,15 @@ At the Gui level, let´s look at the possible implementation. In the VSE, Blende
 ![image](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_vse_channels.jpg)
 
 In these exemples, we can see the audio level for each "channels". An other option exists and offers a "per-strip" audio level meter.
-We also have a "mute audio" button to control channels mixing. Apart from these basic features, an audios equencer must include: Solo button, Mute button, level value slider, and level monitor control.
+We also have a "mute audio" button to control channels mixing. Apart from these basic features, an audios equencer must include: Solo button, Mute button, level value slider, and level monitor control. All those GUI elements can be shown optionaly using the view menu entries
+
+### Option 2: Audio Vu-meter in the "Preview window" tool panel (N)
+
+
+### Option 3: Audio Vu-meter in the "Sequencer window" tool panel (N)
+
+
+### Option 4: A master channels in the "Sequencer window"
 
 ## The solutions
 
