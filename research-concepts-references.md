@@ -4,6 +4,8 @@
 
 Blender can work with various types of audio files and formats: .WAV, .MP3, ...
 
+!!! Rework of audio settings preferences !!!
+
 ### Audio Levels
 
 - The unit used for audio level (inputs/outputs) is expressed in decibel dB.
