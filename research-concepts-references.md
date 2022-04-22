@@ -3,17 +3,17 @@
 ## Audio specifications
 
 Blender can work with various types of audio data:
-- File containers: .AC3, .FLAC, .MKV, .MP2, .OGG, .WAV, .MP3
-- Sample Format: S16/S24
+- **File containers:** .AC3, .FLAC, .MKV, .MP2, .OGG, .WAV, .MP3
+- **Sample Format:** S16/S24
 
 ## Blender Sound Settings Preferences
 
 Blender gots a bunch of Audio settings in the system configuration preferences:
-- Audio Device
-- Channels
-- Mixing Buffer
-- Sample Rate
-- Sample Format
+- **Audio Device** (WASAPI, OpenAL, SDL, ASIO?)
+- **Channels** (Mono, Stereo, 4 Channels, 5.1 Surround, 7.1 Suround)
+- **Mixing Buffer** (256...32768 samples)
+- **Sample Rate** (44.1...192kHrz)
+- **Sample Format** (8...64bits)
 
 > !!! Rework of audio settings preferences is necessary !!!
 > It must include the per-output channel settings (e.g. Rename, Mix Buses)
