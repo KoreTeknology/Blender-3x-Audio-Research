@@ -72,6 +72,100 @@ In the Scene Properties Panel is located an audio settings box, that includes:
 - Doppler Speed
 - Doppler Factor
 
+<table>
+  
+<tr>
+<th align="left", width="200">
+Settings
+</th>
+<th align="left", width="382">
+Details
+</th>
+<th align="left", width="100">
+Min.
+</th>
+<th align="left", width="100">
+Max.
+</th>
+<th align="left", width="100">
+Default
+</th>
+</tr>
+  
+<tr>
+<td>
+Volume (Main)
+</td>
+<td>
+is_Animated
+</td>
+<td>
+<i>0.0</i>
+</td>
+<td>
+<i>100.0</i>
+</td>
+<td>
+<i>1.0</i>
+</td>
+</tr>
+  
+<tr>
+<td>
+Distance Model
+</td>
+<td>
+- None<br>- Iverse<br>- Inverse Clamped<br>- Linea<br>- Linear Clamped<br>- Exponent<br>- Exponent Clamped
+</td>
+<td>
+[0]
+</td>
+<td>
+[7]
+</td>
+<td>
+[3]
+</td>
+</tr>
+  
+<tr>
+<td>
+Doppler Speed
+</td>
+<td>
+DS
+</td>
+<td>
+<i>0.01</i>
+</td>
+<td>
+<i>10 000.0</i>
+</td>
+<td>
+<i>1.0</i>
+</td>
+</tr>
+  
+<tr>
+<td>
+Doppler Factor
+</td>
+<td>
+DF Treshold
+</td>
+<td>
+<i>0.01</i>
+</td>
+<td>
+<i>10 000.0</i>
+</td>
+<td>
+<i>1.0</i>
+</td>
+</tr>
+
+</table>
+
 ## Audio Strip
 
 An Audio file is loaded in blender as a sequence file (AKA "Audio Strip"). This content includes several properties:
