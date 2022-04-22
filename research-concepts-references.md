@@ -184,7 +184,9 @@ An Audio file is loaded in blender as a sequence file (AKA "Audio Strip"). This 
 
 ## Clip Editor
 
-!!! At this time, Audio clip cannot be edited !!!
+```diff 
+- !!! At this time, Audio clip cannot be edited !!!
+```
 
 ## Rendering Audio
 
