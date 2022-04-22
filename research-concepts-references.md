@@ -192,6 +192,14 @@ An Audio file is loaded in blender as a sequence file (AKA "Audio Strip"). This 
 
 About the multi-channel rendering and export features... **Render Audio Mixdown**
 
+```diff
+- ONLY Render Audio based on Channels settings (Mono export option)
++ text in green
+! text in orange
+# text in gray
+@@ Remap (and bold)@@
+```
+
 ---
 
 ## New Concept: Mix Buses and Effects
