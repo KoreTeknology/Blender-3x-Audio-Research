@@ -18,11 +18,10 @@ Also, another option depends on **Audio nodes** (Experimental)
 
 ## Ongoing works
 
-- [x] Personal documentation: [Concepts References](research-concepts-references.md)
-- [x] [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
-- [x] Blender Fundation & Audaspace Library documentations: [External References](ext-references.md)
-- [x] Development: [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
-- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for external control devices
+- [x] **Personal documentation:** [Concepts References](research-concepts-references.md), [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
+- [x] **Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
+- [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
+- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **External Control Devices**
 
 ---
 
