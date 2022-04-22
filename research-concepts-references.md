@@ -2,6 +2,16 @@
 
 Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Blender](blender-related-specs.md)
 
+## Suggested Structural Update
+
+- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
+- **Audio File/Project Settings** (Number of buses)
+- **Export Mixdown** (optional multi files, e.g. ToMono output single files)
+- **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
+- **Audio Clip editor** (Add audio type and previews)
+
+---
+
 ## New Concept I: Mix Buses and Effects
 
 ### Main audio unit
@@ -21,13 +31,7 @@ This option includes a Mix Buses routing interface between the audio strips and 
 IF Audio Fx is placed between the mix buses and the Master Output buses, 
   Audio nodes system is permited.
 
-### Structural Update
 
-- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
-- **Audio File/Project Settings** (Number of buses)
-- **Export Mixdown** (optional multi files, e.g. ToMono output single files)
-- **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
-- **Audio Clip editor** (Add audio type and previews)
 
 ---
 
