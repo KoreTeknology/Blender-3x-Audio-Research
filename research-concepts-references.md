@@ -48,6 +48,10 @@ An Audio file is loaded in blender as a sequence file (AKA "Audio Strip"). This 
 - Strip Modifiers (Add)
 - Cache Settings (Check if apply to audio?)
 
+## Clip Editor
+
+!!! At this time, Audio clip cannot be edited !!!
+
 ## Rendering Audio
 
 About the multi-channel rendering and export features... **Render Audio Mixdown**
