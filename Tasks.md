@@ -1,10 +1,11 @@
 ## Project Tasks List
 
-- [ ] Documentation Structure (this)
-- [ ] External references
-- [ ] Contexts and usages
+- [x] Documentation Structure and content models
+- [x] External references
+- [x] Research topics and Objectives
 - [ ] Related code sources
-- [ ] Optional decision making
+- [ ] Features Proposals
+- [ ] GUI Proposals
 
 
 
