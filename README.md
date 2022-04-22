@@ -18,12 +18,11 @@ Also, another option depends on **Audio nodes** (Experimental)
 
 ## Ongoing works
 
-- [x] Personal documentation: [Concepts References](research-concepts-references.md), [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
+- [x] Personal documentation: [Concepts References](research-concepts-references.md)
+- [x] [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] Blender Fundation & Audaspace Library documentations: [External References](ext-references.md)
-- [x] Development: [Visualization Tools]() and [Operators and Properties]()
-- [x] Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
-- [x] Visualizations: [Vu-Meters](blender-audio-vumeter.md), Spectrum analysis, Stereo Images and others analysis tools
-- [x] Operator Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for external control devices
+- [x] Development: [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
+- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for external control devices
 
 ---
 
