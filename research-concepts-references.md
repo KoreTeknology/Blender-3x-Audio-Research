@@ -4,6 +4,10 @@
 
 Blender can work with various types of audio files and formats: .WAV, .MP3, ...
 
+## Rendering Audio
+
+About the multi-channel rendering and export features...
+
 ### Blender Sound Settings Preferences
 
 Blender gots a bunch of Audio settings in the system configuration preferences:
