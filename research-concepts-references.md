@@ -133,7 +133,7 @@ Distance Model
 Doppler Speed
 </td>
 <td>
-DS
+Speed of Sound
 </td>
 <td>
 <i>0.01</i>
@@ -151,7 +151,7 @@ DS
 Doppler Factor
 </td>
 <td>
-DF Treshold
+Pitch Factor for Doppler Effect
 </td>
 <td>
 <i>0.01</i>
