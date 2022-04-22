@@ -23,9 +23,9 @@ Blender gots a bunch of Audio settings in the system configuration preferences:
 ### NEXT: Mix Buses and Effects
 
 This option includes a set of Mix Buses between the audio strips and the Master-to-Devices outputs.
-Preferences Settings are: **Number of Buses** (1,2,4,8) and **Device Output Channels**
-Options are: **Audio Strip Bus** (depends on preferences)
-Default connections: **Bus ST 1 > Output 1+2** ...
+- Preferences Settings are: **Number of Buses** (1,2,4,8) and **Device Output Channels**
+- Options are: **Audio Strip Bus** (depends on preferences)
+- Default connections: **Bus ST 1 > Output 1+2** ...
 
 ![Mixbuses](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/mixbuses_concept.jpg)
 
