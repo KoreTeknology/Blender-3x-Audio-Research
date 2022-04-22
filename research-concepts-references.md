@@ -58,26 +58,25 @@ About the multi-channel rendering and export features... **Render Audio Mixdown*
 
 ---
 
-## Mix Buses and Effects
+## New Concept: Mix Buses and Effects
 
-This option includes a set of Mix Buses between the audio strips and the Master-to-Devices outputs.
+### Main audio unit
+- The unit used for audio level (inputs/outputs) is expressed in decibel dB.
+- The reference range is -60 <> 0dB
+- the steps can be linear or dynamic (optional)
+
+### Audio Routing
+This option includes a Mix Buses routing interface between the audio strips and the Master-to-Devices outputs.
 - Preferences Settings are: **Number of Buses** (1,2,4,8) and **Device Output Channels**
 - Options are: **Audio Strip Bus** (depends on preferences)
 - Default connections: **Bus ST 1 > Output 1+2** ...
 
 ![Mixbuses](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/mixbuses_concept.jpg)
 
-
-### NEXT: GUI Objects
-
-THINK The user actions on sounds is limited in sequencer view, alternative view for edit.
+**Notes:** The user actions on sounds is limited in sequencer view, alternative view for edit.
 IF Audio Fx is placed between the mix buses and the Master Output buses, 
   Audio nodes system is permited.
 
-### NEXT: Audio Levels
 
-- The unit used for audio level (inputs/outputs) is expressed in decibel dB.
-- The reference range is -60 <> 0dB
-- the steps can be linear or dynamic (optional)
 
 
