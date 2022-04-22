@@ -67,13 +67,7 @@ Sample Format
 ## Audio Project Scenes Settings
 
 In the Scene Properties Panel is located an audio settings box, that includes:
-- Volume (Main, animated)
-- Distance Model
-- Doppler Speed
-- Doppler Factor
-
 <table>
-  
 <tr>
 <th align="left", width="200">
 Settings
@@ -115,7 +109,7 @@ is_Animated
 Distance Model
 </td>
 <td>
-- None<br>- Iverse<br>- Inverse Clamped<br>- Linea<br>- Linear Clamped<br>- Exponent<br>- Exponent Clamped
+- None<br>- Iverse / Inverse Clamped<br>- Linea / Linear Clamped<br>- Exponent / Exponent Clamped
 </td>
 <td>
 [0]
@@ -154,7 +148,7 @@ Doppler Factor
 Pitch Factor for Doppler Effect
 </td>
 <td>
-<i>0.01</i>
+<i>0.0</i>
 </td>
 <td>
 <i>10 000.0</i>
