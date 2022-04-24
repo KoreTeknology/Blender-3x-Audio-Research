@@ -1,8 +1,11 @@
 # Proposal
 
-## Audio System Preferences
+## 1/ Audio System Preferences
 
-- [x] ADD **Channels Configuration Options**
+- [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
+- [x] ADD **Channels Configuration Options** > SELECT SOUND CARD OUTPUTS (INT)
+- [x] ADD **Channels Configuration Options** > USE NODES (BOOL)
+- [x] ADD **MixBus Configuration Options** > NUMBER OF MIXBUSES (INT)
 
 **Note:** *Depends on Channels settings, user can select outputs configuration, based on driver´s options.*
 
@@ -40,10 +43,27 @@ ALL
  
 </table>
 
+```diff
+- **Blender Struct**: Audio_Preferences_NEW_Settings_Channels
++ **Change #01:** The Audio Preference settings includes audio routing and Soundcard options.
+```
 
+---
 
+## 2/ Audio Clip Editor
 
-**Change #01:** The Audio Preference settings includes several lines of option´s menus, regarding the audio routing and Soundcard options.
+- [x] ADD **Audio Edition** > CLIP EDITOR > CLIP TYPES (INT, STR)
+
+**Tools:** *Set_Volume, Set_Pan, Set_Clip_Start, Set_Clip_end, Set_Fade_In, Set_Fade_Out
+
+- LOAD Audio Clip > SELECT file_from_path (OPEN)
+- SAVE Audio Clip > SELECT file_to_path (SAVE, PACK)
+- EDIT Audio Clip > VIEW > OPTIONS*
+
+```diff
+- **Blender Struct**: Clip_Editor_NEW_Type_Audio
++ **Change #02:** The Clip Editor includes *Audio Clip* and basic editing features
+```
 
 ---
 
