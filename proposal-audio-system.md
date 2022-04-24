@@ -52,7 +52,9 @@ ALL
 
 ## 2/ Audio Scene Options
 
-- [x] ADD **New Settings** > ()
+- [x] ADD **New Settings** > (Set_Outputs_Volume)
+
+The Scene Panel includes options,regarding the channels count and preferences (Vu-meters, Volume Sliders). 
 
 ---
 
