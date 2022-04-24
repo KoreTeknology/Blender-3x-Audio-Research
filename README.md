@@ -37,6 +37,12 @@ Audio editing functions are currently non-existent in the software and the only 
 > **January 2010** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
 >
 > **October 2009** - First Professional Video Editing using Blender VSE
+>
+> **September 2007** - First Blender Python Script Development
+>
+> **June 2005** - First Professional Animation Production using Blender
+>
+> **December 2002** - First 3D Model Production using Blender Free Software
 
 ## Infos
 
