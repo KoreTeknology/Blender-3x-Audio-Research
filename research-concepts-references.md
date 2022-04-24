@@ -9,9 +9,9 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - Review of the complete Audio system within Blender
 - Explore New **Audio system Preferences**
 - Explore New **Audio features** (Record, Edit, Mix Buses)
-- Add Vu-meters
-- Add Fx
-- Add Generators
+- Add system preferences data, Channels data, Bus mixer
+- Add Audio Editor Area (type NodeGroups)
+- Add Vu-meters, Add Fx/Filters, Add Generators
 
 ## Suggested Structural Update
 
