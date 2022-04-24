@@ -1,6 +1,6 @@
 # Proposal
 
-## 1/ Audio System Preferences
+## 1/ Audio System Preferences (UPDATE)
 
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD OUTPUTS (INT)
@@ -54,7 +54,7 @@ Dual-Mono
 
 ---
 
-## 2/ Audio Scene Options
+## 2/ Audio Scene Options (UPDATE)
 
 - [x] ADD **New Settings** > (Set_Outputs_Volume)
 
@@ -62,7 +62,7 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 ---
 
-## 3/ Audio Clip Editor
+## 3/ Audio Clip Editor (NEW)
 
 - [x] ADD **Audio Edition** > CLIP EDITOR > CLIP TYPES (INT, STR)
 
@@ -80,7 +80,7 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 ---
 
-## 4/ Audio MixBus Editor
+## 4/ Audio MixBus Editor (NEW)
 
 - [x] ADD **Audio Nodes Window Area** > TYPES (INT, STR, ...)
 
