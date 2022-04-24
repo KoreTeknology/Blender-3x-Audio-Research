@@ -18,28 +18,30 @@
 - IF #channel_config = **"Surround 7.1"**: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7**
 - IF #channel_config = **"Custom"**: Channels > **Outputs "SELECT"**
 
+### Custom
+
 <table>
 <tr>
 <th align="left", width="200">
 Channels Settings
 </th>
 <th align="center", width="200">
-Available Outputs
+Available Properties
 </th>
 <th align="left", width="482">
-Drivers
+Options
 </th>
 </tr>
-  
+
 <tr>
 <td>
-Custom
-</td>
-<td align="center">
 Up to 16
 </td>
+<td align="center">
+Stereo Mode
+</td>
 <td>
-ALL
+Dual-Mono
 </td>
 </tr>
  
