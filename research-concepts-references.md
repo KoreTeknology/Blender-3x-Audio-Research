@@ -2,6 +2,17 @@
 
 Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Blender](blender-related-specs.md)
 
+## Objectives
+
+The main objective is to **revise and propose the audio system of blender, in order to allow the development of new functionalities in the field of sound data**. 
+
+> **The goal is not for Blender to look like a DAW**, but to include basic audio editing functions to be available to the user in the context of video editing.
+
+- Review of the complete Audio system within Blender
+- Explore New audio features
+- Add Vu-meters and Fx 
+- Storage, record, play,... Audio data
+
 ## Suggested Structural Update
 
 - **Audio system Preferences** (regarding the channels model, add device outputs connection selection
