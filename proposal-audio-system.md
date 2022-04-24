@@ -4,8 +4,10 @@
 
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD OUTPUTS (INT)
-- [x] ADD **Channels Configuration Options** > USE NODES (BOOL)
-- [x] ADD **MixBus Configuration Options** > NUMBER OF MIXBUSES (INT)
+- [x] ADD **Mixbuses Configuration Options** > USE NODES (BOOL)
+- [x] ADD **Sound Clips Configuration Options** > USE MODIFIERS IN CLIP EDIT MODE (BOOL)
+- [x] ADD **Mixer Configuration Options** > USE REAL-TIME VUMETERS (BOOL)
+- [x] ADD **MixBuses Configuration Options** > NUMBER OF MIXBUSES (INT)
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/prefs_after.jpg)
 
