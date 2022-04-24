@@ -13,6 +13,8 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - Add Audio Editor Area (type NodeGroups)
 - Add Vu-meters, Add Fx/Filters, Add Generators
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign2.jpg)
+
 ## Suggested Structural Update
 
 - **Audio system Preferences** (regarding the channels model, add device outputs connection selection
