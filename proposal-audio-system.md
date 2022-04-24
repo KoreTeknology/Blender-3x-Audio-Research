@@ -74,4 +74,16 @@ ALL
 
 ---
 
+## 4/ Audio Speaker Object in 3D View
+
+- [x] ADD **Speaker 3D Object Options** > TYPES (INT, STR, ...)
+
+---
+
+## 4/ Audio Scene Options
+
+- [x] ADD **New Settings** > ()
+
+---
+
 > Updated on 24.05.22
