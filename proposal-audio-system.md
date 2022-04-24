@@ -50,7 +50,13 @@ ALL
 
 ---
 
-## 2/ Audio Clip Editor
+## 2/ Audio Scene Options
+
+- [x] ADD **New Settings** > ()
+
+---
+
+## 3/ Audio Clip Editor
 
 - [x] ADD **Audio Edition** > CLIP EDITOR > CLIP TYPES (INT, STR)
 
@@ -68,22 +74,17 @@ ALL
 
 ---
 
-## 3/ Audio MixBus Editor
+## 4/ Audio MixBus Editor
 
 - [x] ADD **Audio Nodes Window Area** > TYPES (INT, STR, ...)
 
 ---
 
-## 4/ Audio Speaker Object in 3D View
+## 5/ Audio Speaker Object in 3D View
 
 - [x] ADD **Speaker 3D Object Options** > TYPES (INT, STR, ...)
 
 ---
 
-## 4/ Audio Scene Options
-
-- [x] ADD **New Settings** > ()
-
----
 
 > Updated on 24.05.22
