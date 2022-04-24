@@ -7,6 +7,8 @@
 - [x] ADD **Channels Configuration Options** > USE NODES (BOOL)
 - [x] ADD **MixBus Configuration Options** > NUMBER OF MIXBUSES (INT)
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/prefs_after.jpg)
+
 **Note:** *Depends on Channels settings, user can select outputs configuration, based on driver´s options.*
 
 - IF #channel_config = **"Mono"**: Channel > **Outputs 1 OR 2**
