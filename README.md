@@ -32,7 +32,7 @@ Audio editing functions are currently non-existent in the software and the only 
 > 
 > **February 2014** - First Midi Script/Addon Development, Learning RTmidi C++ Lib
 > 
-> **March 2012** - First Movie Making workshop using the VSE (82 students)
+> **March 2012** - First Movie Making workshop using the VSE (82 students over 3 years)
 >
 > **January 2010** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
 >
