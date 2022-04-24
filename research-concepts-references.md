@@ -21,6 +21,8 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
 - **Audio Clip editor** (Add audio type and previews)
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign.jpg)
+
 ---
 
 ## New Concept I: Mix Buses and Effects
