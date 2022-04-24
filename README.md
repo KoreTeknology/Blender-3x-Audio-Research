@@ -17,8 +17,8 @@ Also, another option depends on **Audio nodes** (Experimental)
 
 ## Ongoing works
 
-- [ ] **Main Development:** [Proposal 2022](proposal-audio-system.md) (V 0.4)
-- [x] **Personal documentation:** [Concepts References](research-concepts-references.md), [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
+- [ ] **Main Development:** **[Concepts References](research-concepts-references.md)** and **[Proposal 2022](proposal-audio-system.md)** (V 0.4)
+- [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
 - [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **External Control Devices**
