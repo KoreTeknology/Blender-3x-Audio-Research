@@ -23,6 +23,10 @@ The main objective is to **revise the blender´s audio system, in order to allow
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign.jpg)
 
+> By DEFAULT, Number of SubMix Buses = Number of Device Outputs and Channels Configuration!
+> 
+> User can Add an Audio Mix Bus in the Audio Nodes window area
+
 ---
 
 ## New Concept I: Mix Buses and Effects
