@@ -1,4 +1,4 @@
-# Proposal
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
 
 ## 1/ Audio System Preferences (UPDATE)
 
