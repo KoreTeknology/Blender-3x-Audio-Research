@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
 
-THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", THE EXPERIMENTAL SOURCE CODE GIVEN IN THIS DOCUMENT NO OFFERS ANY WARRANTIES OR CONDITIONS OF ANY KIND AND CAN DAMAGE YOUR BLENDER INSTALLATION IN CASE YOU TRY TO IMPLEMENT IT WITHOUT CARE, PLEASE, BE AWARE OF!
+THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", <br>WITHOUT ANY WARRANTIES OR CONDITIONS OF ANY KIND, PLEASE, BE AWARE OF!
 
 ## Introduction
 
@@ -22,12 +22,21 @@ Audio editing functions are currently non-existent in the software and the only 
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
 - [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **External Control Devices**
 
-
 ---
 
 ## History
 
 > **Abril 2022** - First Dev Planning and ideas, [Tasks list](Tasks.md)
+>
+> **March 2016** - First Sequencer Script/Addon Development, Strips Management
+> 
+> **February 2014** - First Midi Script/Addon Development, Learning RTmidi C++ Lib
+> 
+> **March 2012** - First Movie Making workshop using the VSE (82 students)
+>
+> **January 2010** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
+>
+> **October 2009** - First Professional Video Editing using Blender VSE
 
 ## Infos
 
