@@ -6,10 +6,10 @@ THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", <br>WITHOUT ANY WA
 
 ## Introduction
 
-This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is a Audio C++ Library built in Blender to process audio. It is used in the **video sequencer editor (VSE)** and **3D Space**. Audio data can be treated in various types:
-- *per VSE **Sound Strip** (type:audio)*
-- *Master VSE audio **Outputs** (sequencer´s channel 0)*
-- *Speaker Object **3D** (Location, Rotation, Distance)*
+This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is a Audio C++ Library built in Blender to process audio. It is used in the **video sequencer editor (VSE)** and **3D Space**. Audio data is processed in various areas:
+- In the Sequencer, *per VSE **Sound Strip** (type:audio)*
+- In the Scene as *Master VSE audio **Outputs** (sequencer´s channel 0)*
+- In the 3D view as a *Speaker Object **3D** (Location, Rotation, Distance)*
 
 Here, we want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For users with specific needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more...**
 
