@@ -94,5 +94,11 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 ---
 
+## 6/ Audio Sequencer Strip Properties
+
+- [x] ADD **MixBus Input Selection** > TYPES (INT, STR, ...)
+
+---
+
 
 > Updated on 24.05.22
