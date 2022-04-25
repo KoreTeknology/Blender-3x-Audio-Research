@@ -13,6 +13,8 @@ This current documentation is intended to demonstrate the audio features needed 
 
 Here, we want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For users with specific needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more...**
 
+---
+
 ## Ongoing works
 
 - [x] **Main Development:** **[Concepts References](research-concepts-references.md)** and **[Proposal 2022](proposal-audio-system.md)** (V 0.4)
