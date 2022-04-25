@@ -62,6 +62,14 @@ Dual-Mono
 
 > By DEFAULT the first Mix Bus is directly connected to the first available Output. A Mix Buses INPUT Node and a Device Outputs Nodes are loaded, their data are related to preferences and Scene Audio settings.
 
+**Tools Panel (N)**
+- Node
+- Group
+- View
+- Tools
+- Metadata
+
+
 ---
 
 ## 3/ Audio Scene Options (UPDATE)
