@@ -198,3 +198,13 @@ About the multi-channel rendering and export features... **Render Audio Mixdown*
 @@ Remap (and bold)@@
 ```
 
+# Audio Operators
+
+> bpy.ops.sound.mixdown
+```diff
+! (filepath='', check_existing=True, filter_blender=False, filter_backup=False, filter_image=False, filter_movie=False, 
+! filter_python=False, filter_font=False, filter_sound=True, filter_text=False, filter_archive=False, filter_btx=False, 
+! filter_collada=False, filter_alembic=False, filter_usd=False, filter_obj=False, filter_volume=False, filter_folder=True, 
+! filter_blenlib=False, filemode=9, relative_path=True, display_type='DEFAULT', sort_method='', accuracy=1024, container='FLAC', 
+! codec='FLAC', format='S16', bitrate=192, split_channels=False)
+```
