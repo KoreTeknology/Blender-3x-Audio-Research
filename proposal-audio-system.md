@@ -56,7 +56,15 @@ Dual-Mono
 
 ---
 
-## 2/ Audio Scene Options (UPDATE)
+## 2/ Audio MixBus Editor (NEW)
+
+- [x] ADD **Audio Nodes Window Area** > TYPES (INT, STR, ...)
+
+> By DEFAULT the first Mis Bus is connected to the first available Output
+
+---
+
+## 3/ Audio Scene Options (UPDATE)
 
 - [x] ADD **New Settings** > (Set_Outputs_Volume)
 
@@ -64,7 +72,7 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 ---
 
-## 3/ Audio Clip Editor (NEW)
+## 4/ Audio Clip Editor (NEW)
 
 - [x] ADD **Audio Edition** > CLIP EDITOR > CLIP TYPES (INT, STR)
 
@@ -79,12 +87,6 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 - **Blender Struct**: Clip_Editor_NEW_Type_Audio
 + **Change #02:** The Clip Editor includes *Audio Clip* and basic editing features
 ```
-
----
-
-## 4/ Audio MixBus Editor (NEW)
-
-- [x] ADD **Audio Nodes Window Area** > TYPES (INT, STR, ...)
 
 ---
 
