@@ -11,7 +11,7 @@ This current documentation is intended to demonstrate the audio features needed 
 - *Master VSE audio **Outputs** (sequencer´s channel 0)*
 - *Speaker Object **3D** (Location, Rotation, Distance)*
 
-Here, we want to add specific functions which will make it possible to work on the audio data by offering inputs, processing, control, visualizations and outputs as internal components within the application. For users with specific needs in terms of Audio Mixing, this proposal focus on media productivity, VR Art Experiments, Surround Contents creation and more...One of the options depends on **Audio nodes (Sound Mixer)**
+Here, we want to add specific functions which will make it possible to work on the audio data by offering inputs, processing, control, visualizations and outputs as internal components within the application. For users with specific needs in terms of Audio Mixing, this proposal focus on Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more... One of the proposal relate to **Audio nodes (Sound Mixer)** implementation.
 
 ## Ongoing works
 
