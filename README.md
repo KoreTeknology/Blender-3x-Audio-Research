@@ -39,7 +39,7 @@ Here, we want to add specific functions which will make it possible to work on t
 >
 > **2007 September** - First Blender Python Script Development
 >
-> **2005 Jun** - First Professional Animation Production using Blender
+> **2005 June** - First Professional Animation Production using Blender
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
 
