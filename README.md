@@ -6,16 +6,16 @@ THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", <br>WITHOUT ANY WA
 
 ## Introduction
 
-This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. Audaspace is integrated in Blender as Audio C++ Library. It is used in the **video sequencer editor (VSE)** and **3D Space**. Audio data can be treated in various types:
+This current documentation is intended to demonstrate the audio features needed in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is a Audio C++ Library built in Blender to process audio. It is used in the **video sequencer editor (VSE)** and **3D Space**. Audio data can be treated in various types:
 - *per VSE **Sound Strip** (type:audio)*
 - *Master VSE audio **Outputs** (sequencer´s channel 0)*
 - *Speaker Object **3D** (Location, Rotation, Distance)*
 
-Here, we want to add specific functions which will make it possible to work on the audio data by offering inputs, processing, control, visualizations and outputs as internal components within the application. For users with specific needs in terms of Audio Mixing, this proposal focus on Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more... One of the proposal relate to **Audio nodes (Sound Mixer)** implementation.
+Here, we want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For users with specific needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more...**
 
 ## Ongoing works
 
-- [ ] **Main Development:** **[Concepts References](research-concepts-references.md)** and **[Proposal 2022](proposal-audio-system.md)** (V 0.4)
+- [x] **Main Development:** **[Concepts References](research-concepts-references.md)** and **[Proposal 2022](proposal-audio-system.md)** (V 0.4)
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
