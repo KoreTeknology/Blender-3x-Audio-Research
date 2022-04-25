@@ -60,7 +60,7 @@ Dual-Mono
 
 - [x] ADD **Audio Nodes Window Area** > TYPES (INT, STR, ...)
 
-> By DEFAULT the first Mis Bus is connected to the first available Output
+> By DEFAULT the first Mix Bus is directly connected to the first available Output. A Mix Buses INPUT Node and a Device Outputs Nodes are loaded, their data are related to preferences and Scene Audio settings.
 
 ---
 
