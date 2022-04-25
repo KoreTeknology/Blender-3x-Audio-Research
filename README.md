@@ -25,23 +25,23 @@ Here, we want to add specific functions which will make it possible to work on t
 
 ## History
 
-> **Abril 2022** - First Dev Planning and ideas, [Tasks list](Tasks.md)
+> **2022 Abril** - First Dev Planning and ideas, [Tasks list](Tasks.md)
 >
-> **March 2016** - First Sequencer Script/Addon Development, Strips Management
+> **2016 March** - First Sequencer Script/Addon Development, Strips Management
 > 
-> **February 2014** - First Midi Script/Addon Development, Learning RTmidi C++ Lib
+> **2014 February** - First Midi Script/Addon Development, Learning RTmidi C++ Lib
 > 
-> **March 2012** - First Movie Making workshop using the VSE (82 students over 3 years)
+> **2012 March** - First Movie Making workshop using the VSE (82 students over 3 years)
 >
-> **January 2010** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
+> **2010 January** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
 >
-> **October 2009** - First Professional Video Editing using Blender VSE
+> **2009 October** - First Professional Video Editing using Blender VSE
 >
-> **September 2007** - First Blender Python Script Development
+> **2007 September** - First Blender Python Script Development
 >
-> **June 2005** - First Professional Animation Production using Blender
+> **2005 Jun** - First Professional Animation Production using Blender
 >
-> **December 2002** - First 3D Model Production using Blender Free Software
+> **2002 December** - First 3D Model Production using Blender Free Software
 
 ## Infos
 
