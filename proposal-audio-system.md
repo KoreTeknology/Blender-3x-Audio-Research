@@ -3,11 +3,17 @@
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 - ### PART 1:  [New General Audio Features]()
+  > Definition, Classes, Sub-Classes, Methods, Properties, Operators
 - ### PART 2:  [New Audio Preferences Features]()
+  > Device, Device_channels, Outputs, Device_outputs
 - ### PART 3:  [New Sequencer Features]()
+  > Sequencer_strip, Audio_strip, Strip_seq_channel, Strip_aud_bus
 - ### PART 4:  [New Clip Editor Features]()
+  > File, Path, Open, Save, Modifiers 
 - ### PART 5:  [New 3D Objects Features]()
+  > Channels Configuration, Direction, Distance
 - ### PART 6:  [New Sound Mixer Features]()
+  > Audio Nodes, Signals, Effects 
 
 
 
