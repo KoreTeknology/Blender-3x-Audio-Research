@@ -51,7 +51,7 @@ Dual-Mono
 
 ### Channels Mixing 
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings.jpg)
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
 
 
 
