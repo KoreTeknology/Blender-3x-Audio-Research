@@ -49,6 +49,12 @@ Dual-Mono
  
 </table>
 
+### Channels Mixing 
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings.jpg)
+
+
+
 ```diff
 - **Blender Struct**: Audio_Preferences_NEW_Settings_Channels
 + **Change #01:** The Audio Preference settings includes audio routing and Soundcard options.
