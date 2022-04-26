@@ -4,7 +4,7 @@
 - **Sequencer channels** [SEQ_channels.h](#blendersequencerseq_channelsh)
 - **Blender Kernel** [BKE_sound.h](#blenderblenkernelbke_soundh)
 
-
+---
 
 ## [blender/sequencer/SEQ_sound.h](https://github.com/blender/blender/blob/master/source/blender/sequencer/SEQ_sound.h)
 
@@ -22,6 +22,7 @@ void SEQ_sound_update(struct Scene *scene, struct bSound *sound);
 void SEQ_sound_update_length(struct Main *bmain, struct Scene *scene);
 ```
 
+---
 
 ## [blender/sequencer/SEQ_channels.h](https://github.com/blender/blender/blob/master/source/blender/blenkernel/BKE_sound.h)
 
@@ -48,6 +49,8 @@ bool SEQ_channel_is_muted(const struct SeqTimelineChannel *channel);
 int SEQ_channel_index_get(const struct SeqTimelineChannel *channel);
 ListBase *SEQ_get_channels_by_seq(struct ListBase *seqbase, const struct Sequence *seq);
 ```
+
+---
 
 ## [blender/blenkernel/BKE_sound.h](https://github.com/blender/blender/blob/master/source/blender/blenkernel/BKE_sound.h)
 
