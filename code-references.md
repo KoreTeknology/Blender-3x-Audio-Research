@@ -1,5 +1,11 @@
 # Code References (Blender Sources)
 
+- **Sound Strip** [SEQ_sound.h](#blendersequencerseq_soundh)
+- **Sequencer channels** [SEQ_channels.h](#blendersequencerseq_channelsh)
+- **Blender Kernel** [BKE_sound.h](#blenderblenkernelbke_soundh)
+
+
+
 ## [blender/sequencer/SEQ_sound.h](https://github.com/blender/blender/blob/master/source/blender/sequencer/SEQ_sound.h)
 
 ### Line 14: Sound Strip
