@@ -2,7 +2,7 @@
 
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
-## 1/ Audio System Preferences (UPDATE)
+## 1/ Audio System Preferences (IN PROGRESS)
 
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD OUTPUTS (INT)
@@ -55,7 +55,11 @@ Dual-Mono
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
 
+### GUI Implementation
 
+- User Preferences Device options: Soundcard, Outputs settings
+- Scene Properties: Sound, Mix Buses Configuration Panel
+- Sequencer Audio Strip: Audio Mix Bus routing(Default)
 
 ```diff
 - **Blender Struct**: Audio_Preferences_NEW_Settings_Channels
