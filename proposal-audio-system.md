@@ -2,6 +2,19 @@
 
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
+- ### PART 1:  [New General Audio Features]()
+- ### PART 2:  [New Audio Preferences Features]()
+- ### PART 3:  [New Sequencer Features]()
+- ### PART 4:  [New Clip Editor Features]()
+- ### PART 5:  [New 3D Objects Features]()
+- ### PART 6:  [New Sound Mixer Features]()
+
+
+
+
+
+---
+
 ## 1/ Audio System Preferences (IN PROGRESS)
 
 **Note:** *Depends on Channels settings, user can select outputs configuration, based on driver´s options.*
