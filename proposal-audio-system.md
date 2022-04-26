@@ -1,5 +1,7 @@
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
 
+> This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
+
 ## 1/ Audio System Preferences (UPDATE)
 
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
