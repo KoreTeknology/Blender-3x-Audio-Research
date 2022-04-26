@@ -11,7 +11,7 @@
 - [x] ADD **Mixer Configuration Options** > USE REAL-TIME VUMETERS (BOOL)
 - [x] ADD **MixBuses Configuration Options** > NUMBER OF MIXBUSES (INT)
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/prefs_after.jpg)
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/prefs_after2.jpg)
 
 **Note:** *Depends on Channels settings, user can select outputs configuration, based on driver´s options.*
 
