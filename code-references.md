@@ -1,6 +1,6 @@
 # Code References (Blender Sources)
 
-## [blender/sequencer/SEQ_channels.h.h](https://github.com/blender/blender/blob/master/source/blender/blenkernel/BKE_sound.h)
+## [blender/sequencer/SEQ_channels.h](https://github.com/blender/blender/blob/master/source/blender/blenkernel/BKE_sound.h)
 
 ### Line 14: Sequencer channels
 
