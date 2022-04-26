@@ -1,5 +1,22 @@
 # Code References (Blender Sources)
 
+## [blender/sequencer/SEQ_sound.h](https://github.com/blender/blender/blob/master/source/blender/sequencer/SEQ_sound.h)
+
+### Line 14: Sound Strip
+
+```c++
+struct Main;
+struct Scene;
+struct Sequence;
+struct bSound;
+
+void SEQ_sound_update_bounds_all(struct Scene *scene);
+void SEQ_sound_update_bounds(struct Scene *scene, struct Sequence *seq);
+void SEQ_sound_update(struct Scene *scene, struct bSound *sound);
+void SEQ_sound_update_length(struct Main *bmain, struct Scene *scene);
+```
+
+
 ## [blender/sequencer/SEQ_channels.h](https://github.com/blender/blender/blob/master/source/blender/blenkernel/BKE_sound.h)
 
 ### Line 14: Sequencer channels
