@@ -20,7 +20,7 @@ By DEFAULT, When the user is selecting his channels options, these ```audio rout
 
 **Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
-### :speaker: Custom
+### :speaker: Custom Channels
 
 This is where it becomes interesting, the custom option offers a 1-to-1 channels configuration.
 
