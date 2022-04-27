@@ -4,9 +4,11 @@
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
 
-## 1/ Audio System Preferences (IN PROGRESS)
+## 1/ Audio System Preferences
 
-**Note:** *Depends on Channels settings, user can select outputs configuration, based on driver´s options.*
+### Channels Options
+
+By DEFAULT, When the user is selecting his channels options, these audio routings will apply:
 
 - IF #channel_config = **"Mono"**: Channel > **Outputs 1 OR 2**
 - IF #channel_config = **"Stereo"**: Channels > **Outputs 1 AND 2**
@@ -18,9 +20,7 @@
 - IF #channel_config = **"Surround 7.1"**: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7/8**
 - IF #channel_config = **"Custom"**: Channels > **Outputs "SELECT"**
 
-### Channels Mixing 
-
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
+**Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
 ### Custom
 
@@ -52,6 +52,13 @@ Dual-Mono
 </tr>
  
 </table>
+
+In this configuration, the user can create/Edit/Delete channels and apply a customized outputs routing. Also, if the user has an option selected (e.g. surround 5.1), and if he delete or add a channel, the option becomes automatically a "custom" type.
+
+### Channels Outputs Configuration 
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
+
 
 ### GUI Implementation
 
