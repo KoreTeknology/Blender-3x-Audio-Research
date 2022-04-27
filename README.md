@@ -28,7 +28,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 
 
 - **PART 1:  [Development Methodology](audio-dev-strategy.md)**
-  - *[Priorities](audio-dev-strategy.md) 
+  - *[Priorities](audio-dev-strategy.md)*
   - [Sources](sources/sources-intro.md), Notes, List
 - **PART 2:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
@@ -63,7 +63,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 - Audio Nodes by nomelif [Blender Free Addon](https://github.com/nomelif/Audionodes)
 - Audaspace repository by neXyon [High level audio library written in C++](https://github.com/neXyon/audaspace)
 
-### Others
+### BPY Blender Python
 
 - Audio VSE Fade Addon [Repo](https://github.com/snuq/VSEQF)
 - Blender Audacity Tools Addon [Repo](https://github.com/tin2tin/audacity_tools_for_blender)
