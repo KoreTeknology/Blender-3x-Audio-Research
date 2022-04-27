@@ -32,16 +32,16 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 - **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
-  - [Codes Patch](), Notes, List
+  - [Sources](sources/sources-intro.md), Notes, List
 - **PART 2:  [New Sequencer & Clip Editor Features](proposal-audio-clip.md)**
   - [Definition](), Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Sound Modifiers
-  - [Codes Patch](), Notes, List
+  - [Sources](sources/sources-intro.md)
 - **PART 3:  [New 3D Objects Features](proposal-3d-object.md)**
   - [Definition](), Speakers, Channels Configuration, Direction, Distance
-  - [Codes Patch](), Notes, List
+  - [Sources](sources/sources-intro.md)
 - **PART 4:  [New Sound Mixer Features](proposal-sound-mixer.md)**
   - [Definition](), Audio Nodes, Signals, Effects 
-  - [Codes Patch](), Notes, List
+  - [Sources](sources/sources-intro.md)
 
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
