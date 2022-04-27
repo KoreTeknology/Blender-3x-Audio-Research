@@ -27,6 +27,8 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 
 ---
 
+## Development Strategy and GSoc Proposal
+
 - **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - [Definition](), Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Codes Patch](), Notes, List
