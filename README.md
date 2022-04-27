@@ -29,15 +29,19 @@ The main goal is to build a new patch to present to the **Blender Foundation** a
 
 ## Development Strategy and GSoc Proposal
 
-- **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
+
+- **PART 1:  [Development Methodology](audio-dev-strategy.md)**
+  - *[Priorities](audio-dev-strategy.md) 
+  - [Sources](sources/sources-intro.md), Notes, List
+- **PART 2:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md), Notes, List
-- **PART 2:  [New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
+- **PART 3:  [New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
   - *[Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers]()*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md)
-- **PART 3:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
+- **PART 4:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
   - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
