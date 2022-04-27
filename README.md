@@ -14,18 +14,18 @@ Here, i want to present specific features which will make it possible to work on
 
 ## Ongoing works
 
-- [x] **Main Development:** **[Concepts References](research-concepts-references.md)** and **[Proposal 2022](proposal-audio-system.md)** (V 0.4)
+- [x] **Main Development:** **[Concepts References](research-concepts-references.md)**
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
-- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **External Control Devices**
+- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
 
 ---
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
-- **PART 1:  [New General Audio Features & System Preferences]()**
+- **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - [Definition](), Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Codes Patch](), Notes, List
 - **PART 2:  [New Sequencer & Clip Editor Features]()**
