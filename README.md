@@ -31,7 +31,7 @@ Here, i want to present specific features which will make it possible to work on
 - **PART 2:  [New Sequencer & Clip Editor Features](proposal-audio-clip.md)**
   - [Definition](), Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Sound Modifiers
   - [Codes Patch](), Notes, List
-- **PART 3:  [New 3D Objects Features]()**
+- **PART 3:  [New 3D Objects Features](proposal-3d-object.md)**
   - [Definition](), Speakers, Channels Configuration, Direction, Distance
   - [Codes Patch](), Notes, List
 - **PART 4:  [New Sound Mixer Features](proposal-sound-mixer.md)**
