@@ -34,7 +34,7 @@ Here, i want to present specific features which will make it possible to work on
 - **PART 3:  [New 3D Objects Features]()**
   - [Definition](), Speakers, Channels Configuration, Direction, Distance
   - [Codes Patch](), Notes, List
-- **PART 4:  [New Sound Mixer Features]()**
+- **PART 4:  [New Sound Mixer Features](proposal-sound-mixer.md)**
   - [Definition](), Audio Nodes, Signals, Effects 
   - [Codes Patch](), Notes, List
 
