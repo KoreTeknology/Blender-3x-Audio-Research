@@ -2,15 +2,9 @@
 
 ## Blender builds
 
-- Blender mirror repository [Source](https://github.com/blender)
-- Code directories structure [Guide](https://wiki.blender.org/wiki/Source/File_Structure)
-- Developpers documentation [Guide](https://www.blender.org/get-involved/developers/)
-- Advices [Guide](https://wiki.blender.org/wiki/Developer_Intro/Advice)
-- Building Blender [Windows OS](https://wiki.blender.org/wiki/Building_Blender/Windows)
-- Coding style [Guide](https://wiki.blender.org/wiki/Style_Guide)
-- Patching [Guide](https://wiki.blender.org/wiki/Process/Contributing_Code)
-- Diferencial [Guide](https://secure.phabricator.com/book/phabricator/article/differential/)
-- Arcanist [Guide](https://wiki.blender.org/wiki/Tools/CodeReview#Use_Arcanist)
+- Blender Source Code: [Repository](https://github.com/blender) / [Code Structure](https://wiki.blender.org/wiki/Source/File_Structure) / [Developpers Documentation](https://www.blender.org/get-involved/developers/) / [Advices](https://wiki.blender.org/wiki/Developer_Intro/Advice)
+- Building Blender [Windows OS](https://wiki.blender.org/wiki/Building_Blender/Windows) / [Coding Style](https://wiki.blender.org/wiki/Style_Guide) / [Patching](https://wiki.blender.org/wiki/Process/Contributing_Code)
+- Diferencial [Guide](https://secure.phabricator.com/book/phabricator/article/differential/) / [Arcanist](https://wiki.blender.org/wiki/Tools/CodeReview#Use_Arcanist)
 
 ## Audaspace Library and Python
 
@@ -27,5 +21,6 @@
 - Blender Audacity Tools Addon [Repo](https://github.com/tin2tin/audacity_tools_for_blender)
 - VSE Sound Clip [RCS](https://blender.community/c/rightclickselect/vQ65/)
 - VSE customizations Addon [Repo](https://github.com/Botmasher/blender-vse-customizations)
+- VSE Text to Speech Addon [Repo](https://github.com/technisculpt/blender-text-to-speech-gtts)
 
 TO BE CONTINUED...
