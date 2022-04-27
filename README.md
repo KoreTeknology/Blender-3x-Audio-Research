@@ -26,10 +26,10 @@ Here, i want to present specific features which will make it possible to work on
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 - **PART 1:  [New General Audio Features & System Preferences]()**
-  - [Definition](), Classes, Sub-Classes, Methods, Properties, Operators, Device, Device_channels, Outputs, Device_output_Name
+  - [Definition](), Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Codes Patch](), Notes, List
 - **PART 2:  [New Sequencer & Clip Editor Features]()**
-  - [Definition](), Sequencer_strip, Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Open/Save, Sound Modifiers
+  - [Definition](), Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Sound Modifiers
   - [Codes Patch](), Notes, List
 - **PART 3:  [New 3D Objects Features]()**
   - [Definition](), Speakers, Channels Configuration, Direction, Distance
