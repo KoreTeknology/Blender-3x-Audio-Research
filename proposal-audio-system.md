@@ -2,8 +2,6 @@
 
 ---
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
-
 ## NEW Blender Audio System Preferences
 
 ### :speaker: Channels Options
