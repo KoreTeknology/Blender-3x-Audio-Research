@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
 
-THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", <br>WITHOUT ANY WARRANTIES OR CONDITIONS OF ANY KIND, PLEASE, BE AWARE OF!
+THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", WITHOUT ANY WARRANTIES OR CONDITIONS OF ANY KIND!
 
 ## Introduction
 
