@@ -18,7 +18,7 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 
 ## Ongoing works
 
-- [x] **Main Development:** **[Concepts References](research-concepts-references.md)**
+- [x] **Main Development Research:** **[Concepts References](research-concepts-references.md)**
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
