@@ -6,7 +6,7 @@
 
 ### :speaker: Channels Options
 
-By DEFAULT, When the user is selecting his channels options, these ```audio routings``` will apply:
+By DEFAULT, when the user is selecting the channels option in the Preferences panel, these ```Audio Routings``` will apply:
 
 - IF #channel_config = ```"Mono"```: Channel > **Outputs 1 OR 2**
 - IF #channel_config = ```"Stereo"```: Channels > **Outputs 1 AND 2**
