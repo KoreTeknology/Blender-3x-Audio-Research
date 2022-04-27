@@ -70,6 +70,7 @@ typedef enum eSoundChannels {
   SOUND_CHANNELS_SURROUND71 = 8,
 } eSoundChannels;
 ```
+---
 
 ### Line 90: Mixdown Master Sound
 
@@ -92,3 +93,35 @@ AUD_Device *BKE_sound_mixdown(const struct Scene *scene,
                               float volume);
 #endif
 ```
+
+---
+
+in Specification.h (Audaspace)
+
+ enum Channels
+ {
+     CHANNELS_INVALID    = 0,    
+     CHANNELS_MONO       = 1,    
+     CHANNELS_STEREO     = 2,    
+     CHANNELS_STEREO_LFE = 3,    
+     CHANNELS_SURROUND4  = 4,    
+     CHANNELS_SURROUND5  = 5,    
+     CHANNELS_SURROUND51 = 6,    
+     CHANNELS_SURROUND61 = 7,    
+     CHANNELS_SURROUND71 = 8 
+ };
+ 
+ enum Channel
+ {
+     CHANNEL_FRONT_LEFT = 0,
+     CHANNEL_FRONT_RIGHT,
+     CHANNEL_FRONT_CENTER,
+     CHANNEL_LFE,
+     CHANNEL_REAR_LEFT,
+     CHANNEL_REAR_RIGHT,
+     CHANNEL_REAR_CENTER,
+     CHANNEL_SIDE_LEFT,
+     CHANNEL_SIDE_RIGHT,
+     CHANNEL_MAX
+ };
+
