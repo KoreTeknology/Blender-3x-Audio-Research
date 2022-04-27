@@ -21,6 +21,9 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
 - [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
+- [ ] GSoc 2023 Document Writing
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_band.jpg)
 
 ---
 
@@ -61,6 +64,7 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 > **2005 June** - First Professional Animation Production using Blender
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
+
 
 ## Infos
 
