@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
 
-THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", WITHOUT ANY WARRANTIES OR CONDITIONS OF ANY KIND!
-
 ## Introduction
 
 This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is an Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
