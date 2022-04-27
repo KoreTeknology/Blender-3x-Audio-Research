@@ -30,7 +30,8 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 ## Development Strategy and GSoc Proposal
 
 - **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
-  - [Definition](), Classes, Properties, Operators, Device, Device_channels, Device_output_Name
+  - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
+  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Codes Patch](), Notes, List
 - **PART 2:  [New Sequencer & Clip Editor Features](proposal-audio-clip.md)**
   - [Definition](), Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Sound Modifiers
