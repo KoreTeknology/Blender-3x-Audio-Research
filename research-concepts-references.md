@@ -4,7 +4,7 @@ Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Bl
 
 ## Objectives
 
-The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. **The goal is not for Blender to look like a DAW**, but to include basic audio editing functions to be available to the user in the context of video editing, VR Production and Surround Video Clip Creation.
+The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. **The goal is not for Blender to look like a DAW**, but to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
 
 - Review of the complete Audio system within Blender
 - Explore New **Audio system Preferences**
