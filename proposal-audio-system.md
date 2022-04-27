@@ -57,12 +57,12 @@ In this configuration, the user can create/Edit/Delete channels and apply a cust
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
 
-
 ### :speaker: GUI Implementation
 
 1/ **New GUI Properties** User Preferences Device options: Soundcard, Outputs settings
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/prefs_after2.jpg)
+> **Notes:** In this exemple, the channels configuration is set to "STEREO", so the sub-panel area shows 2 "audio Ports" available. We can select the device outputs to be routed to.
 
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD HARDWARE (INT, STR)
 - [x] ADD **Channels Configuration Options** > SELECT SOUND CARD OUTPUTS (INT)
