@@ -4,7 +4,9 @@
 
 # NEW Sound Sequences Properties
 
-## Sound Strip 
+## Sound Strip Option
+
+This includes a new option in the strip properties panel, the mixing Bus channel.
 
 
 ```diff
