@@ -1,3 +1,7 @@
+[< Back to Homepage](/../..)
+
+---
+
 # Sound Mixer
 
 ## 2/ Sound Mixer Editor (NEW)
