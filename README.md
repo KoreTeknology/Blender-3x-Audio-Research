@@ -6,11 +6,13 @@ THIS DOCUMENTATION IS PROVIDED BY ME (uriel Deveaud) "AS IS", <br>WITHOUT ANY WA
 
 ## Introduction
 
-This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is a Audio C++ Library built in Blender to process audio. It is mainly used in the **video sequencer editor (VSE)** and **3D Space**. 
+This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is an Audio C++ Library built in Blender to process audio. It is mainly used in the **video sequencer editor (VSE)** as Audio strips and **3D Space** as 3D Speaker Objects.
 
 Here, i want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR Art Experiments, Multiverse and Surround Contents creation, and more...**. 
 
 The main goal is to build a new patch to present to the **Blender Fundation** and **GSoC** 2023. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_band.jpg)
 
 ---
 
@@ -21,14 +23,9 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
 - [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
-- [ ] GSoc 2023 Document Writing
-
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_band.jpg)
+- [ ] GSoc 2023 Presentation (Video, 3D Avatar, Surround Audio)
 
 ---
-
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
-> This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 - **PART 1:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
   - [Definition](), Classes, Properties, Operators, Device, Device_channels, Device_output_Name
@@ -42,6 +39,8 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 - **PART 4:  [New Sound Mixer Features](proposal-sound-mixer.md)**
   - [Definition](), Audio Nodes, Signals, Effects 
   - [Codes Patch](), Notes, List
+
+> This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 ---
 
