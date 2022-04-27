@@ -34,9 +34,10 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md), Notes, List
 - **PART 2:  [New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
-  - [Definition](), Audio_strip, Strip_seq_channel, Strip_aud_bus, FilePath, Sound Modifiers
+  - [Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers]()
+  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md)
-- **PART 3:  [New Sound Mixer Features](proposal-sound-mixer.md)**
+- **PART 3:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
   - [Definition](), Audio Nodes, Signals, Effects 
   - [Sources](sources/sources-intro.md)
 
