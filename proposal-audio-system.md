@@ -16,7 +16,7 @@ By DEFAULT, when the user is selecting the channels option in the Preferences pa
 - IF #channel_config = ```"Surround 5.1"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6**
 - IF #channel_config = ```"Surround 7"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7**
 - IF #channel_config = ```"Surround 7.1"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7/8**
-- IF #channel_config = ```"Custom"```: Channels > **Outputs "SELECT"**
+- IF #channel_config = ```"Custom"```: Channels > **Outputs "SELECT"** (up to 8)
 
 **Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
@@ -39,7 +39,7 @@ Options
 
 <tr>
 <td>
-Up to 16
+Up to 8
 </td>
 <td align="center">
 Stereo Mode
