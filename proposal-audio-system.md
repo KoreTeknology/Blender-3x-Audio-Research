@@ -4,21 +4,21 @@
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
 
-## 1/ Audio System Preferences
+## NEW Blender Audio System Preferences
 
 ### Channels Options
 
-By DEFAULT, When the user is selecting his channels options, these audio routings will apply:
+By DEFAULT, When the user is selecting his channels options, these ```audio routings``` will apply:
 
-- IF #channel_config = **"Mono"**: Channel > **Outputs 1 OR 2**
-- IF #channel_config = **"Stereo"**: Channels > **Outputs 1 AND 2**
-- IF #channel_config = **"Stereo LFE"**: Channels > **Outputs 1/2 AND 3**
-- IF #channel_config = **"4 Channels"**: Channels > **Outputs 1/2 AND 3/4**
-- IF #channel_config = **"Surround 5"**: Channels > **Outputs 1/2 AND 3/4 AND 5**
-- IF #channel_config = **"Surround 5.1"**: Channels > **Outputs 1/2 AND 3/4 AND 5/6**
-- IF #channel_config = **"Surround 7"**: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7**
-- IF #channel_config = **"Surround 7.1"**: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7/8**
-- IF #channel_config = **"Custom"**: Channels > **Outputs "SELECT"**
+- IF #channel_config = ```"Mono"```: Channel > **Outputs 1 OR 2**
+- IF #channel_config = ```"Stereo"```: Channels > **Outputs 1 AND 2**
+- IF #channel_config = ```"Stereo LFE"```: Channels > **Outputs 1/2 AND 3**
+- IF #channel_config = ```"4 Channels"```: Channels > **Outputs 1/2 AND 3/4**
+- IF #channel_config = ```"Surround 5"```: Channels > **Outputs 1/2 AND 3/4 AND 5**
+- IF #channel_config = ```"Surround 5.1"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6**
+- IF #channel_config = ```"Surround 7"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7**
+- IF #channel_config = ```"Surround 7.1"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7/8**
+- IF #channel_config = ```"Custom"```: Channels > **Outputs "SELECT"**
 
 **Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
@@ -98,6 +98,8 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 - **Blender Struct**: Audio_Preferences_NEW_Settings_Channels
 + **Change #01:** The Audio Preference settings includes audio routing and Soundcard options.
 ```
+
+``` - **Blender Struct**: Audio_Preferences_NEW_Settings_Channels  ```
 
 ---
 
