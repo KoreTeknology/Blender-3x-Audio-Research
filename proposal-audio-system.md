@@ -1,4 +1,4 @@
-[< Back to Homepage](https://github.com/KoreTeknology/Blender-3x-Audio-Research)
+[< Back to Homepage](/../..)
 
 ---
 
