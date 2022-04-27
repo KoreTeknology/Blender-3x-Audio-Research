@@ -1,5 +1,6 @@
 # Code References (Blender Sources)
 
+- **Sound Operators** [Repository](https://github.com/blender/blender/tree/master/source/blender/editors/sound)
 - **Sound Strip** [SEQ_sound.h](#blendersequencerseq_soundh)
 - **Sequencer channels** [SEQ_channels.h](#blendersequencerseq_channelsh)
 - **Blender Kernel** [BKE_sound.h](#blenderblenkernelbke_soundh)
