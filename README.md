@@ -66,7 +66,6 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
 
-
 ## Infos
 
 * Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
@@ -74,3 +73,5 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 <img src="https://img.shields.io/badge/CG Art-1995-red" /> <img src="https://img.shields.io/badge/3D Blender-2002-red" /> <img src="https://img.shields.io/badge/Python Dev-2005-red" /> <img src="https://img.shields.io/badge/3D Trainer-2008-red" /> <img src="https://img.shields.io/badge/Coding Trainer-2010-red" /> <img src="https://img.shields.io/badge/GE-2015-darkorange" /> <img src="https://img.shields.io/badge/VR-2017-darkorange" />
 
 * This work is dedicated to all Blender users ;)
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
