@@ -1,6 +1,8 @@
 # Main Project Concepts
 
 Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Blender](blender-related-specs.md)
+This is a Research pool for that project. Once the concepts is written and code analysis is done, the documentation section will be moved to the proposal section, available from the [homepage](https://github.com/KoreTeknology/Blender-3x-Audio-Research#development-strategy-and-gsoc-proposal
+).
 
 ## Objectives
 
