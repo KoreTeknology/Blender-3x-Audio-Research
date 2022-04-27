@@ -22,6 +22,11 @@ Here, i want to present specific features which will make it possible to work on
 
 ---
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
+
+---
+
+
 ## History
 
 > **2022 Abril** - First Dev Planning and ideas, [Tasks list](Tasks.md)
