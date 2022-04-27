@@ -22,8 +22,8 @@ The main goal is to build a new patch to present to the **Blender Fundation** an
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [x] Blender Fundation & Audaspace Library **Documentations:** [External Links](ext-references.md)
-- [x] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
-- [ ] GSoc 2023 Presentation (Video, 3D Avatar, Surround Audio)
+- [ ] **GSoc 2023** [Presentation](proposal-gsoc-presentation.md) (Video, 3D Avatar, Surround Audio)
+- [ ] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
 
 ---
 
