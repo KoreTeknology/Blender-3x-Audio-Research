@@ -39,7 +39,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md)
 - **PART 4:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
-  - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [FX Processing]()*
+  - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
 > This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
