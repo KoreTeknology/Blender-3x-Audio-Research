@@ -6,7 +6,7 @@
 
 ## NEW Blender Audio System Preferences
 
-### Channels Options
+### :speaker: Channels Options
 
 By DEFAULT, When the user is selecting his channels options, these ```audio routings``` will apply:
 
@@ -22,7 +22,7 @@ By DEFAULT, When the user is selecting his channels options, these ```audio rout
 
 **Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
-### Custom
+### :speaker: Custom
 
 This is where it becomes interesting, the custom option offers a 1-to-1 channels configuration.
 
@@ -55,12 +55,12 @@ Dual-Mono
 
 In this configuration, the user can create/Edit/Delete channels and apply a customized outputs routing. Also, if the user has an option selected (e.g. surround 5.1), and if he delete or add a channel, the option becomes automatically a "custom" type.
 
-### Channels Outputs Configuration 
+### :speaker: Channels Outputs Configuration 
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio_channel_settings2.jpg)
 
 
-### GUI Implementation
+### :speaker: GUI Implementation
 
 1/ **New GUI Properties** User Preferences Device options: Soundcard, Outputs settings
 
