@@ -9,9 +9,9 @@ Keeping in mind that we are **NOT** making Blender looking like a **Digital Audi
 I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features and its usage, the default audio setup will apply.
 
 **The final decision was made, regarding 3 focused developments agendas:**
-- Preferences and Default Sound Mixer Setup
-- Sequencer Sound Strip Properties and Operators
-- Advanced Mixer Setup within a new Editor space
+- Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)
+- Sequencer Sound Strip Properties and Operators (Mix Bus and Modifiers)
+- Advanced Mixer Setup within a new Editor space (Complex routing/Processing)
 
 
 ### :speaker: Know Audspace capabilites
