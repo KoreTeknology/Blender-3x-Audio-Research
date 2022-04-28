@@ -59,6 +59,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 - Audaspace 1.3.0 [Official documentation](https://audaspace.github.io/)
 - Audaspace in Blender API 3.1x [BF documentation](https://docs.blender.org/api/3.1/aud.html)
 - Sound Operators in Blender API 3.1x [BF documentation](https://docs.blender.org/api/3.1/bpy.ops.sound.html)
+- Sound Sequences (Strip) [BF Documentation](https://docs.blender.org/api/3.1/bpy.types.SoundSequence.html?highlight=audio%20strip#soundsequence-sequence)
 - Audio Nodes by neXyon [Blender Free Addon](https://github.com/neXyon/audionodes)
 - Audio Nodes by nomelif [Blender Free Addon](https://github.com/nomelif/Audionodes)
 - Audaspace repository by neXyon [High level audio library written in C++](https://github.com/neXyon/audaspace)
