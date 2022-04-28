@@ -14,7 +14,16 @@ I also consider any changes from the user´s point of view. **A discrete impleme
 - Advanced Mixer Setup within a new Editor space (Complex routing/Processing)
 
 
-### :speaker: Know Audspace capabilites
+### :speaker: Known Audaspace capabilites
+
+Audspace is a strong C++ Audio library, it includes a wide variety of Audio procesing features (See Audaspace Modules and Classes). We can identify thoses modules in different categories:
+- Device
+- Generators
+- Inputs/Outputs
+- Effects
+- Mixer
+- ...
+
 
 ### :speaker: Multiplex Audio Routing
 
