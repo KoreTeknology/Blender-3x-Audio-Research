@@ -49,6 +49,18 @@ This is a Research pool for that project. Once the concepts is written and code 
 <td><a href="">Audio Effects Nodes</a></td>
 <td align="left">Mixing console</td>
 </tr>
+<tr>
+<td><a href="">Audio Visualizations</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">Audio Vu-Meters</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">Audio Equalizer (Param/Band)</a></td>
+<td align="left"></td>
+</tr>
  
 </table>
 
