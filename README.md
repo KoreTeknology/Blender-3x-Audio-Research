@@ -51,8 +51,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 ### Blender builds
 
 - Blender Source Code: [Repository](https://github.com/blender) / [Code Structure](https://wiki.blender.org/wiki/Source/File_Structure) / [Developpers Documentation](https://www.blender.org/get-involved/developers/) / [Advices](https://wiki.blender.org/wiki/Developer_Intro/Advice)
-- Building Blender [Windows OS](https://wiki.blender.org/wiki/Building_Blender/Windows) / [Coding Style](https://wiki.blender.org/wiki/Style_Guide) / [Patching](https://wiki.blender.org/wiki/Process/Contributing_Code)
-- Diferencial [Guide](https://secure.phabricator.com/book/phabricator/article/differential/) / [Arcanist](https://wiki.blender.org/wiki/Tools/CodeReview#Use_Arcanist)
+- Building Blender [Windows OS](https://wiki.blender.org/wiki/Building_Blender/Windows) / [Coding Style](https://wiki.blender.org/wiki/Style_Guide) / [Patching](https://wiki.blender.org/wiki/Process/Contributing_Code) / [Diferencial](https://secure.phabricator.com/book/phabricator/article/differential/) / [Arcanist](https://wiki.blender.org/wiki/Tools/CodeReview#Use_Arcanist)
 
 ### Audaspace Library and Python
 
