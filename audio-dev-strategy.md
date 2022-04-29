@@ -15,7 +15,18 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - Add Audio Editor Area (type NodeGroups)
 - Add Vu-meters, Add Fx/Filters, Add Generators
 
+Changes are:
+- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
+- **Audio File/Project Settings** (Number of buses)
+- **Export Mixdown** (optional multi files, e.g. ToMono output single files)
+- **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
+- **Audio Clip editor** (Add audio type and previews)
+
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign2.jpg)
+
+> By DEFAULT, Number of SubMix Buses = Number of Device Outputs and Channels Configuration!
+> 
+> User can Add an Audio Mix Bus in the Audio Nodes window area
 
 Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. 
 
