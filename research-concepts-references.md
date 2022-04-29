@@ -11,11 +11,11 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Device Outputs Channels</a></td>
-<td align="left">Device physical outputs</td>
+<td align="left">The Device physical outputs fromthe user´s soundcard specifications. Audio driver will allow up to 16 outputs channels</td>
 </tr>
 <tr>
 <td><a href="">Bus Mixer Routing</a></td>
-<td align="left">Mixing Channels</td>
+<td align="left">The Mixing Channels. The internal audio routing includes a Bus mixing areawhere user can define his sound strategy.</td>
 </tr>
 <tr>
 <td><a href="">Strip Bus Channels</a></td>
@@ -26,22 +26,6 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
  
 </table>
-
-## Suggested Structural Update
-
-- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
-- **Audio File/Project Settings** (Number of buses)
-- **Export Mixdown** (optional multi files, e.g. ToMono output single files)
-- **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
-- **Audio Clip editor** (Add audio type and previews)
-
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign.jpg)
-
-> By DEFAULT, Number of SubMix Buses = Number of Device Outputs and Channels Configuration!
-> 
-> User can Add an Audio Mix Bus in the Audio Nodes window area
-
----
 
 ## New Concept I: Mix Buses and Effects
 
