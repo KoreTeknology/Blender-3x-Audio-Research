@@ -214,8 +214,10 @@ About the multi-channel rendering and export features... **Render Audio Mixdown*
 ### DeviceManager Class Reference
 
 ```c++
-#include <DeviceManager.h>
+#include <DeviceManager.h> > 
 ```
+
+**aud.Device** Device objects represent an audio output backend like OpenAL or SDL, but might also represent a file output or RAM buffer output
 
 <table>
 <tr><th align="left", width="441">Audaspace</th><th align="left", width="441">Blender</th></tr>
