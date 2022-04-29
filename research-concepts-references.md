@@ -4,6 +4,26 @@ Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Bl
 This is a Research pool for that project. Once the concepts is written and code analysis is done, the documentation section will be moved to the proposal section, available from the [homepage](https://github.com/KoreTeknology/Blender-3x-Audio-Research#development-strategy-and-gsoc-proposal
 ).
 
+<table>
+<tr>
+<th align="left", width="250">Concepts</th>
+<th align="left", width="632">Features</th>
+</tr>
+<tr>
+<td><a href="">Device Outputs Channels</a></td>
+<td align="left">Device</td>
+</tr>
+<tr>
+<td><a href="">Bus Mixer Routing</a></td>
+<td align="left">Channels</td>
+</tr>
+<tr>
+<td><a href="">Strip Bus Channels</a></td>
+<td align="left">Buses</td>
+</tr>
+ 
+</table>
+
 ## Objectives
 
 The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. **The goal is not for Blender to look like a DAW**, but to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
