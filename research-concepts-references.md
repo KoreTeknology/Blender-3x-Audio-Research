@@ -10,8 +10,16 @@ This is a Research pool for that project. Once the concepts is written and code 
 <th align="left", width="632">Features</th>
 </tr>
 <tr>
+<td><a href="">Device Channels</a></td>
+<td align="left">The Device physical connectors from the user´s soundcard specifications.</td>
+</tr>
+<tr>
+<td><a href="">Device Inputs Channels</a></td>
+<td align="left">The Device physical inputs from the user´s soundcard specifications. Audio driver will allow up to 2 Inputs channels.</td>
+</tr>
+<tr>
 <td><a href="">Device Outputs Channels</a></td>
-<td align="left">The Device physical outputs fromthe user´s soundcard specifications. Audio driver will allow up to 16 outputs channels.</td>
+<td align="left">The Device physical outputs from the user´s soundcard specifications. Audio driver will allow up to 16 outputs channels.</td>
 </tr>
 <tr>
 <td><a href="">Bus Mixer Routing</a></td>
