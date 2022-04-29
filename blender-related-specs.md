@@ -208,3 +208,28 @@ About the multi-channel rendering and export features... **Render Audio Mixdown*
 ! filter_blenlib=False, filemode=9, relative_path=True, display_type='DEFAULT', sort_method='', accuracy=1024, container='FLAC', 
 ! codec='FLAC', format='S16', bitrate=192, split_channels=False)
 ```
+
+## Relations
+
+### DeviceManager Class Reference
+
+```c++
+#include <DeviceManager.h>
+```
+
+<table>
+<tr><th align="left", width="441">Audaspace</th><th align="left", width="441">Blender</th></tr>
+<tr><td>registerDevice()</td><td>_</td></tr>
+<tr><td>getDeviceFactory()</td><td>_</td></tr>
+<tr><td>getDefaultDeviceFactory()</td><td>_</td></tr>
+<tr><td>setDevice()</td><td>_</td></tr>
+<tr><td>openDevice()</td><td>_</td></tr>
+<tr><td>openDefaultDevice()</td><td>_</td></tr>
+<tr><td>releaseDevice()</td><td>_</td></tr>
+<tr><td>getDevice()</td><td>_</td></tr>
+<tr><td>get3DDevice()</td><td>_</td></tr>
+<tr><td>getAvailableDeviceNames()</td><td>_</td></tr>
+</table>
+
+
+
