@@ -4,7 +4,7 @@
 
 ## NEW Blender Audio System Preferences
 
-### :speaker: Channels Options
+### :speaker: Outputs Channels Options
 
 By DEFAULT, when the user is selecting the channels option in the Preferences panel, these ```Audio Routings``` will apply:
 
@@ -52,6 +52,14 @@ Dual-Mono
 </table>
 
 In this configuration, the user can create/Edit/Delete channels and apply a customized outputs routing. Also, if the user has an option selected (e.g. surround 5.1), and if he delete or add a channel, the option becomes automatically a "custom" type.
+
+### :speaker: Inputs Channels Options
+
+By DEFAULT, when the user is selecting the channels option in the Preferences panel, these ```Audio Routings``` will apply:
+
+- IF #channel_config = ```"None"```: Channel > **No Inputs**
+- IF #channel_config = ```"Mono IN"```: Channels > **Outputs 1 OR 2**
+- IF #channel_config = ```"Stereo IN"```: Channels > **Outputs 1 AND 2**
 
 ### :speaker: Channels Outputs Configuration 
 
