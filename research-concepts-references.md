@@ -20,19 +20,20 @@ This is a Research pool for that project. Once the concepts is written and code 
 <tr>
 <td><a href="">Strip Bus Channels</a></td>
 <td align="left">Assign Buses to Strip</td>
-</tr><tr>
+</tr>
+<tr>
 <td><a href="">Audio Mixdown</a></td>
 <td align="left">Export Channel Strips</td>
+</tr>
+<tr>
+<td><a href="">Audio Unit</a></td>
+<td align="left">The unit used for audio level (inputs/outputs) is expressed in decibel dB. The reference range is -60 <> 0dB, the steps can be linear or dynamic (optional)</td>
 </tr>
  
 </table>
 
 ## New Concept I: Mix Buses and Effects
 
-### Main audio unit
-- The unit used for audio level (inputs/outputs) is expressed in decibel dB.
-- The reference range is -60 <> 0dB
-- the steps can be linear or dynamic (optional)
 
 ### Audio Routing
 This option includes a Mix Buses routing interface between the audio strips and the Master-to-Devices outputs.
