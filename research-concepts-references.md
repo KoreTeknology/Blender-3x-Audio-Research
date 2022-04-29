@@ -11,31 +11,21 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Device Outputs Channels</a></td>
-<td align="left">Device</td>
+<td align="left">Device physical outputs</td>
 </tr>
 <tr>
 <td><a href="">Bus Mixer Routing</a></td>
-<td align="left">Channels</td>
+<td align="left">Mixing Channels</td>
 </tr>
 <tr>
 <td><a href="">Strip Bus Channels</a></td>
-<td align="left">Buses</td>
+<td align="left">Assign Buses to Strip</td>
+</tr><tr>
+<td><a href="">Audio Mixdown</a></td>
+<td align="left">Export Channel Strips</td>
 </tr>
  
 </table>
-
-## Objectives
-
-The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. **The goal is not for Blender to look like a DAW**, but to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
-
-- Review of the complete Audio system within Blender
-- Explore New **Audio system Preferences**
-- Explore New **Audio features** (Record, Edit, Mix Buses)
-- Add system preferences data, Channels data, Bus mixer
-- Add Audio Editor Area (type NodeGroups)
-- Add Vu-meters, Add Fx/Filters, Add Generators
-
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/Audio-basic_redesign2.jpg)
 
 ## Suggested Structural Update
 
