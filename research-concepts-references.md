@@ -4,6 +4,20 @@ Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Bl
 This is a Research pool for that project. Once the concepts is written and code analysis is done, the documentation section will be moved to the proposal section, available from the [homepage](https://github.com/KoreTeknology/Blender-3x-Audio-Research#development-strategy-and-gsoc-proposal
 ).
 
+
+
+<table align="center">
+<tr>
+<th align="left", width="20"><a href="">A</a></th>
+<th align="left", width="20"><a href="">B</a></th>
+<th align="left", width="20"><a href="">C</a></th>
+<th align="left", width="20"><a href="">D</a></th>
+<th align="left", width="20"><a href="">S</a></th>
+<th align="left", width="20"><a href="">U</a></th>
+</tr>
+<table>
+
+
 <table>
 <tr>
 <th align="left", width="250">Concepts</th>
