@@ -11,23 +11,31 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Device Outputs Channels</a></td>
-<td align="left">The Device physical outputs fromthe user´s soundcard specifications. Audio driver will allow up to 16 outputs channels</td>
+<td align="left">The Device physical outputs fromthe user´s soundcard specifications. Audio driver will allow up to 16 outputs channels.</td>
 </tr>
 <tr>
 <td><a href="">Bus Mixer Routing</a></td>
 <td align="left">The Mixing Channels. The internal audio routing includes a Bus mixing areawhere user can define his sound strategy.</td>
 </tr>
 <tr>
-<td><a href="">Strip Bus Channels</a></td>
-<td align="left">Assign Buses to Strip</td>
+<td><a href="">Strip Bus Property</a></td>
+<td align="left">Assign Buses to Strip. Each sound sequence can be routed to one specific Mixing Bus.</td>
 </tr>
 <tr>
 <td><a href="">Audio Mixdown</a></td>
-<td align="left">Export Channel Strips</td>
+<td align="left">Export Channel Strips, regarding the output channels settings in system preferences.</td>
 </tr>
 <tr>
 <td><a href="">Audio Unit</a></td>
-<td align="left">The unit used for audio level (inputs/outputs) is expressed in decibel dB. The reference range is -60 <> 0dB, the steps can be linear or dynamic (optional)</td>
+<td align="left">The unit used for audio level (inputs/outputs) is expressed in decibel dB. The reference range is -60 <> 0dB, the steps can be linear or dynamic (optional).</td>
+</tr>
+<tr>
+<td><a href="">Audio Effects Modifiers</a></td>
+<td align="left">VSE Specific</td>
+</tr>
+<tr>
+<td><a href="">Audio Effects Nodes</a></td>
+<td align="left">Mixing console</td>
 </tr>
  
 </table>
