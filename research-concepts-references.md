@@ -14,6 +14,10 @@ This is a Research pool for that project. Once the concepts is written and code 
 <td align="left">The Device physical connectors from the user´s soundcard specifications.</td>
 </tr>
 <tr>
+<td><a href="">Channels Preferences</a></td>
+<td align="left">The User selects the channels option to work with. From 1 to 8 output channels and up to 2 Inputs channels</td>
+</tr>
+<tr>
 <td><a href="">Device Inputs Channels</a></td>
 <td align="left">The Device physical inputs from the user´s soundcard specifications. Audio driver will allow up to 2 Inputs channels.</td>
 </tr>
