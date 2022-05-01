@@ -117,6 +117,10 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td><a href="/">Scene Audio Main Volume</a></td>
   <td align="left">0...<b>10000?</b></td>
 </tr>
+<tr>
+<td><a href="/">Scene Audio Distance Models</a></td>
+  <td align="left">None, Inverse, Linear, Exponent (Clamped)</td>
+</tr>
 </table>
 
 ---
