@@ -72,23 +72,27 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Audio Devices</a></td>
-<td align="left">WASAPI, SDL...(ASIO)</td>
+<td align="left">WASAPI (ASIO), OpenAL, OpenAL Soft, SDL</td>
 </tr>
 <tr>
 <td><a href="/">Audio Level Unit</a></td>
 <td align="left">Decibel (dB), -60 <> 0dB range, linear/dynamic.</td>
 </tr>
 <tr>
-<td><a href="/">Audio Buffer Sizes</a></td>
-<td align="left">128...</td>
+<td><a href="/">Audio Mixing Buffer Sizes</a></td>
+<td align="left">256, 512, 1024, 2048, 4096, 8192, 16384, 32768</td>
 </tr>
 <tr>
 <td><a href="/">Sample Rates</a></td>
-<td align="left">44100Hrz...</td>
+<td align="left">44.1kHz 48kHz, 96kHz, 192kHz</td>
+</tr>
+<tr>
+<td><a href="/">Sample Formats</a></td>
+<td align="left">8-bit Unsigned, 16/24/32-bit Signed, 32/64-bit Float </td>
 </tr>
 <tr>
 <td><a href="/">Sound Files</a></td>
-<td align="left">WAV, MP3,...</td>
+<td align="left">AC3, FLAC, WAV, MKV, MP2, MP3, OGG</td>
 </tr>
 <tr>
 <td><a href="/">Audio Channels</a></td>
