@@ -1,6 +1,8 @@
 # Notes
 
+:speaker: :sound: :loud_sound: :loudspeaker: :musical_score: :musical_note: :notes: :studio_microphone: :level_slider: :control_knobs: :microphone: :headphones:  :musical_keyboard: :electric_plug: :computer: :desktop_computer: :keyboard: :computer_mouse: :cd: :dvd: :abacus:  :movie_camera: :film_strip: :film_projector:  :bulb:  :pushpin: :key: :shield: :gear: 
 
+[Icons stylesheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 
 
