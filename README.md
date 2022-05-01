@@ -16,7 +16,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 
 ## Ongoing works
 
-- [x] **Main Development Research:** **[Concepts References](research-concepts-references.md)**
+- [x] **Main Development Research:** **[Concepts References](research-concepts-references.md)** and **[Gui References](research-gui-references.md)**
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [ ] Extra: [Standard MIDI 2.0 implementation](blender-midi-implementation.md) for **USB External Control Devices**
