@@ -1,6 +1,8 @@
 # Blender 3x Audio Research
 
-<img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" />
+> [Last Updated: 01-05-2022]() by Uriel Deveaud (AKTIV25)
+
+<img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" /> 
 
 ## Introduction
 
@@ -42,7 +44,7 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
   - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
-> This document is not a definitive version! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
+> This document is not a definitive version yet! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 ---
 
