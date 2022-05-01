@@ -8,9 +8,9 @@
 
 This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within **Blender**[^1], the well known Free and Open Source 3D application and **Audaspace**[^2] the Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
 
-Here, i want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR/AR Art and Experiments, Multiverse and Surround Contents creation, and more...**. 
+Here, i want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR/AR Art and Experiments, Multiverse and Surround Contents creation, and more...**[^3]. 
 
-The main goal is to build a new patch (or maybe a Git Branch) to present to the **Blender Foundation** and **GSoC** 2023. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
+The main goal is to build a new patch (or maybe a Git Branch) to present to the **Blender Foundation**[^4] and **GSoC** 2023[^5]. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_band.jpg)
 
@@ -106,9 +106,12 @@ TO BE CONTINUED...
 <img src="https://img.shields.io/badge/CG Art-1995-red" /> <img src="https://img.shields.io/badge/3D Blender-2002-red" /> <img src="https://img.shields.io/badge/Python Dev-2005-red" /> <img src="https://img.shields.io/badge/3D Trainer-2008-red" /> <img src="https://img.shields.io/badge/Coding Trainer-2010-red" /> <img src="https://img.shields.io/badge/GE-2015-darkorange" /> <img src="https://img.shields.io/badge/VR-2017-darkorange" />
 
 
-[^1]: Blender is the well known Free and Open Source 3D Software Package: [Blender Website](https://www.blender.org/).....
+[^1]: **Blender** is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process. Examples from many Blender-based projects are available in the showcase. Blender is cross-platform and runs equally well on Linux, Windows, and Macintosh computers. Its interface uses OpenGL to provide a consistent experience. To confirm specific compatibility, the list of supported platforms indicates those regularly tested by the development team. As a community-driven project under the GNU General Public License (GPL), the public is empowered to make small and large changes to the code base, which leads to new features, responsive bug fixes, and better usability. Blender has no price tag, but you can invest, participate, and help to advance a powerful collaborative tool: Blender is your own 3D software. More help is always welcome! From developing and improving Blender to writing documentation, etc, there are a number of different things you can do to get involved. [Blender Official Website](https://www.blender.org/).
 [^2]: Audaspace is a C++ Library: [Audaspace Page](https://audaspace.github.io/)
   This allows you to have a footnote with multiple lines.
+[^3]: In This case, Blender is used as a Audio/Video Sequencer Editor
+[^4]: The Blender Foundation is....
+[^5]: GSoc or Google Summer of Code is...
 [^note]:
-    This work is dedicated to all Blender users ;) and the Free Software Foundation Members.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
+    This work is dedicated to **all Blender users** ;) and the **Free Software Foundation Members**.
+    I do this work in my free time, without any profit, enjoy!
