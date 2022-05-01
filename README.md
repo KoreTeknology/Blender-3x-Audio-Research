@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within [Blender](https://www.blender.org/), the well known Free and Open Source 3D application. [Audaspace](https://audaspace.github.io/) is an Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
+This current documentation is intended to demonstrate the requested audio features in the context of editing audio files within **Blender**[^1], the well known Free and Open Source 3D application and **Audaspace**[^2] the Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
 
 Here, i want to present specific features which will make it possible to work on the audio data, including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this proposal focus on **Media Productivity, VR/AR Art and Experiments, Multiverse and Surround Contents creation, and more...**. 
 
@@ -101,10 +101,14 @@ TO BE CONTINUED...
 
 ## Infos
 
-* Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology) 
+* Author: **Uriel Deveaud**[^note] - [Kore Teknology](https://github.com/KoreTeknology) 
 
 <img src="https://img.shields.io/badge/CG Art-1995-red" /> <img src="https://img.shields.io/badge/3D Blender-2002-red" /> <img src="https://img.shields.io/badge/Python Dev-2005-red" /> <img src="https://img.shields.io/badge/3D Trainer-2008-red" /> <img src="https://img.shields.io/badge/Coding Trainer-2010-red" /> <img src="https://img.shields.io/badge/GE-2015-darkorange" /> <img src="https://img.shields.io/badge/VR-2017-darkorange" />
 
-* This work is dedicated to all Blender users ;) and the Free Software Foundation Members
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_header.jpg)
+[^1]: Blender is the well known Free and Open Source 3D Software Package: [Blender Website](https://www.blender.org/).....
+[^2]: Audaspace is a C++ Library: [Audaspace Page](https://audaspace.github.io/)
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    This work is dedicated to all Blender users ;) and the Free Software Foundation Members.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
