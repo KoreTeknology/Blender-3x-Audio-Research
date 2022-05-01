@@ -1,7 +1,10 @@
 # Blender Audio operators
 
-...
-Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
+- TRANSPORT Operators: [Play & Stop](), [Forward & Backward](), [Record & Overdub]()
+- DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
+- FILE Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk]()
+
+
 
 
 
@@ -57,13 +60,10 @@ As well as the gain for that frequencies range, we should have a Q (curve shape 
 </tr>
   
 <tr>
-<td><a href="">VSE Audio Strip Panel</a></td>
-<td align="left">Strip Properties</td>
+<td><a href="">Compresor/Limiter</a></td>
+<td align="left">Care signals</td>
 </tr>
-<tr>
-<td><a href="">Scene Settings</a></td>
-<td align="left">Main Audio Configuration</td>
-</tr>
+
 
 </table>
 
