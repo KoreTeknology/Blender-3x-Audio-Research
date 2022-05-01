@@ -112,7 +112,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 ### Audaspace Library and Python
 
 - Audaspace Library [1.3.0 Official documentation](https://audaspace.github.io/), and neXyon´s [repository](https://github.com/neXyon/audaspace)
-- Audaspace in Blender [API 3.1x](https://docs.blender.org/api/3.1/aud.html) / [Sound Operators in Blender API 3.1x](https://docs.blender.org/api/3.1/bpy.ops.sound.html) / [Sound Sequences (Strip)](https://docs.blender.org/api/3.1/bpy.types.SoundSequence.html?highlight=audio%20strip#soundsequence-sequence)
+- Audaspace in Blender [Python API 3.1x](https://docs.blender.org/api/3.1/aud.html) / [Sound Operators](https://docs.blender.org/api/3.1/bpy.ops.sound.html) / [Sound Sequences (Strip)](https://docs.blender.org/api/3.1/bpy.types.SoundSequence.html?highlight=audio%20strip#soundsequence-sequence)
 - Audio Nodes [by neXyon](https://github.com/neXyon/audionodes) / [by noemlif](https://github.com/nomelif/Audionodes)
 
 ### BPY Blender Python
