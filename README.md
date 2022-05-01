@@ -132,19 +132,16 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ### BPY Blender Python
 
-- Audio VSE Fade Addon [Repo](https://github.com/snuq/VSEQF)
-- Blender Audacity Tools Addon [Repo](https://github.com/tin2tin/audacity_tools_for_blender)
-- VSE Sound Clip [RCS](https://blender.community/c/rightclickselect/vQ65/)
-- VSE customizations Addon [Repo](https://github.com/Botmasher/blender-vse-customizations)
-- VSE Text to Speech Addon [Repo](https://github.com/technisculpt/blender-text-to-speech-gtts)
+- VSE Addons: [Audio Strip Fade](https://github.com/snuq/VSEQF) / [Text to Speech](https://github.com/technisculpt/blender-text-to-speech-gtts) / [VSE customizations](https://github.com/Botmasher/blender-vse-customizations)
+- [VSE Sound Clip (RightClicSelect)](https://blender.community/c/rightclickselect/vQ65/)
+- [Blender Audacity Tools](https://github.com/tin2tin/audacity_tools_for_blender)
+
 
 ### DevTalks Users Proposals
 
 - [Proposal VSE Nodes](https://devtalk.blender.org/t/proposal-using-compositor-nodes-on-vse-strips/21732)
 
 TO BE CONTINUED...
-
-
 
 ---
 
