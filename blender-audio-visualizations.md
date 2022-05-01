@@ -1,4 +1,4 @@
-# Visualizations
+# Blender NEW Visualizations Tools
 
 > Vu-Meters, Spectrum analysis, Stereo Images and others analysis tools
 
