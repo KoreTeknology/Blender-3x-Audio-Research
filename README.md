@@ -38,15 +38,15 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Main OS Plateforms</a></td>
-<td align="left">Windows 32/64bits, MacOS 64bits, Linux 32/64bits operating systems</td>
+<td align="left">Windows, MacOS, Linux (32/64bits operating systems)</td>
 </tr>
 <tr>
 <td><a href="/">Main Application</a></td>
-<td align="left">Blender 3D (Git Releases, Codebase C++/Python, Core RNA)</td>
+<td align="left">Blender 3D (Codebase C++/Python)</td>
 </tr>
 <tr>
 <td><a href="/">Sound Engine</a></td>
-<td align="left">Audaspace (C++, Modules and Classes)</td>
+<td align="left">Audaspace (Codebase C++)</td>
 </tr>
 <tr>
 <td><a href="/">Audio Devices</a></td>
@@ -54,14 +54,14 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Audio Level Unit</a></td>
-<td align="left">Decibel (dB), the Reference range is -60 <> 0dB, linear or dynamic (optional).</td>
+<td align="left">Decibel (dB), -60 <> 0dB range, linear/dynamic.</td>
 </tr>
 <tr>
 <td><a href="/">Audio Buffer Sizes</a></td>
 <td align="left">128...</td>
 </tr>
 <tr>
-<td><a href="/">Audio Formats</a></td>
+<td><a href="/">Sample Rates</a></td>
 <td align="left">44100Hrz...</td>
 </tr>
 <tr>
@@ -71,6 +71,10 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <tr>
 <td><a href="/">Audio Channels</a></td>
 <td align="left">0...8, None, 1 to 8 channels (Mono to Surround 7.1)</td>
+</tr>
+<tr>
+<td><a href="/">Max. Sample Length</a></td>
+<td align="left">...</td>
 </tr>
 </table>
 
