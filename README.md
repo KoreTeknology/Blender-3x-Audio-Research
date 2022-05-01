@@ -1,6 +1,6 @@
 # Blender 3x Audio Research
 
-> [Last Updated: 01-05-2022]() by Uriel Deveaud (AKTIV25)
+> **Work in Progress** [Last Updated: 01-05-2022]() by Uriel Deveaud (AKTIV25)
 
 <img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" /> 
 
