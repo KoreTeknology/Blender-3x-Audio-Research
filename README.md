@@ -11,10 +11,10 @@ This current documentation is intended to demonstrate the requested audio featur
 Here, i want to present specific [features]() which will make it possible to work on the [audio data](), including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this **[proposal](#radio_button-development-strategy-and-gsoc-proposal)** is focused on:
 - **Media Productivity**[^3], including audio and Video editing, Animations, Games Post-production...
 - **VR/AR Art and Experiments**, including Multiverse Production, Installations and Real-time Performances
-- **Surround Contents creation**, including music clip edition and digital Fx mixer up to 8 outputs channels
+- **Surround Contents Creation**, including music clip edition and digital Fx mixer, up to 8 outputs channels
 - and more... 
 
-The main goal is to build a new patch (or maybe a Git Branch) to present to the **Blender Foundation**[^4] and **GSoC** 2023[^5]. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
+> The main goal is to build a new patch (or maybe a Git Branch) to present to the **Blender Foundation**[^4] and **GSoC** 2023[^5]. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/proposal_band.jpg)
 
