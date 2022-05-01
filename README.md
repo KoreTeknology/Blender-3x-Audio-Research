@@ -64,11 +64,15 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Main Application</a></td>
-<td align="left">Blender 3D (Codebase C++/Python)</td>
+<td align="left">Blender 3D</td>
 </tr>
 <tr>
 <td><a href="/">Sound Engine</a></td>
-<td align="left">Audaspace (Codebase C++)</td>
+<td align="left">Audaspace</td>
+</tr>
+<tr>
+<td><a href="/">Codebases</a></td>
+<td align="left">C++, Python</td>
 </tr>
 <tr>
 <td><a href="/">Audio Devices</a></td>
@@ -76,7 +80,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Audio Level Unit</a></td>
-<td align="left">Decibel (dB), -60 <> 0dB range, linear/dynamic.</td>
+<td align="left">Decibel (dB), -60 <> 0dB range, linear/Exp.</td>
 </tr>
 <tr>
 <td><a href="/">Audio Mixing Buffer Sizes</a></td>
