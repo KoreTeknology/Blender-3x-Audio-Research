@@ -29,6 +29,28 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ---
 
+## :radio_button: Development Strategy and GSoc Proposal (In Progress)
+
+
+- **PART 1:  [Development Methodology](audio-dev-strategy.md)**
+  - *[Priorities](audio-dev-strategy.md)*
+  - [Sources](sources/sources-intro.md), Notes, List
+- **PART 2:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
+  - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
+  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
+  - [Sources](sources/sources-intro.md), Notes, List
+- **PART 3:  [New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
+  - *[Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers]()*
+  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
+  - [Sources](sources/sources-intro.md)
+- **PART 4:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
+  - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
+  - [Sources](sources/sources-intro.md)
+
+> This document is not a definitive version yet! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
+
+---
+
 ## :radio_button: Audio Data Specifications
 
 <table>
@@ -81,28 +103,6 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">...</td>
 </tr>
 </table>
-
----
-
-## :radio_button: Development Strategy and GSoc Proposal (In Progress)
-
-
-- **PART 1:  [Development Methodology](audio-dev-strategy.md)**
-  - *[Priorities](audio-dev-strategy.md)*
-  - [Sources](sources/sources-intro.md), Notes, List
-- **PART 2:  [New General Audio Features & System Preferences](proposal-audio-system.md)**
-  - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
-  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
-  - [Sources](sources/sources-intro.md), Notes, List
-- **PART 3:  [New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
-  - *[Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers]()*
-  - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
-  - [Sources](sources/sources-intro.md)
-- **PART 4:  [New Sound Mixer Space Features](proposal-sound-mixer.md)**
-  - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
-  - [Sources](sources/sources-intro.md)
-
-> This document is not a definitive version yet! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
 ---
 
