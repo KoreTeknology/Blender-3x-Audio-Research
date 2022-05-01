@@ -98,16 +98,20 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">AC3, FLAC, MKV, MP2, MP3, OGG, WAV</td>
 </tr>
 <tr>
-<td><a href="/">Audio Channels</a></td>
+<td><a href="/">Audio Output Channels</a></td>
 <td align="left">0...8 (None, Mono to Surround 7.1)</td>
 </tr>
 <tr>
-<td><a href="/">Max. Strip Sequence Length</a></td>
-<td align="left">...</td>
+<td><a href="/">Audio Intput Channels</a></td>
+<td align="left">None</td>
 </tr>
 <tr>
-<td><a href="/">Max. Sample Length</a></td>
-<td align="left">...</td>
+<td><a href="/">Sequence Strips</a></td>
+<td align="left">Inf. (Mu)</td>
+</tr>
+<tr>
+<td><a href="/">Sequencer Channels</a></td>
+<td align="left">128</td>
 </tr>
 </table>
 
