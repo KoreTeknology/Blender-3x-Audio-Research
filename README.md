@@ -78,6 +78,14 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">WASAPI (ASIO), OpenAL, OpenAL Soft, SDL</td>
 </tr>
 <tr>
+<td><a href="/">Audio Output Channels</a></td>
+<td align="left">0...8 (None, Mono to Surround 7.1)</td>
+</tr>
+<tr>
+<td><a href="/">Audio Intput Channels</a></td>
+<td align="left">None</td>
+</tr>
+<tr>
 <td><a href="/">Audio Level Unit</a></td>
 <td align="left">Decibel (dB), -60 <> 0dB range, linear/Exp.</td>
 </tr>
@@ -98,12 +106,12 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">AC3, FLAC, MKV, MP2, MP3, OGG, WAV</td>
 </tr>
 <tr>
-<td><a href="/">Audio Output Channels</a></td>
-<td align="left">0...8 (None, Mono to Surround 7.1)</td>
+<td><a href="/">Scene Audio Main Volume</a></td>
+  <td align="left">0...<b>10000?</b></td>
 </tr>
 <tr>
-<td><a href="/">Audio Intput Channels</a></td>
-<td align="left">None</td>
+<td><a href="/">Scene Audio Distance Models</a></td>
+  <td align="left">None, Inverse, Linear, Exponent (Clamped)</td>
 </tr>
 <tr>
 <td><a href="/">Sequence Strips</a></td>
@@ -112,14 +120,6 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <tr>
 <td><a href="/">Sequencer Channels</a></td>
 <td align="left">128</td>
-</tr>
-<tr>
-<td><a href="/">Scene Audio Main Volume</a></td>
-  <td align="left">0...<b>10000?</b></td>
-</tr>
-<tr>
-<td><a href="/">Scene Audio Distance Models</a></td>
-  <td align="left">None, Inverse, Linear, Exponent (Clamped)</td>
 </tr>
 </table>
 
