@@ -8,11 +8,10 @@
 
 This current documentation is intended to demonstrate the requested audio features in the context of editing audio contents/data within **Blender**[^1] itself, the well known Free and Open Source 3D application and **Audaspace**[^2] the Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
 
-Here, i want to present specific [features](#radio_button-ongoing-works) which will make it possible to work on the [audio data](), including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this **[proposal](#radio_button-development-strategy-and-gsoc-proposal)** is focused on:
+Here, i want to present specific [features](#radio_button-ongoing-works) which will make it possible to work on the [audio data](#radio_button-audio-data-specifications), including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this **[proposal](#radio_button-development-strategy-and-gsoc-proposal)** is focused on:
 - **Media Productivity**[^3], including audio and Video editing, Animations, Games Post-production...
 - **VR/AR Art and Experiments**, including Multiverse Production, Installations and Real-time Performances
 - **Surround Contents Creation**, including music clip edition and digital Fx mixer, up to 8 outputs channels
-- and more... 
 
 > The main goal is to build a new patch (or maybe a Git Branch) to present to the **Blender Foundation**[^4] and **GSoC** 2023[^5]. The development of this patch is encouraged by the Blender community members and it will be first tested by other Blender developpers, then it will be sent to the BF for final approval. I invite you to post in the "Pull Requests" section any comments or suggestions that you think it is important to consider. Thank you.
 
@@ -30,7 +29,54 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ---
 
-## :radio_button: Development Strategy and GSoc Proposal
+## :radio_button: Audio Data Specifications
+
+<table>
+<tr>
+<th align="left", width="250">Specifications</th>
+<th align="left", width="632">Details</th>
+</tr>
+<tr>
+<td><a href="/">Main OS Plateforms</a></td>
+<td align="left">Windows 32/64bits, MacOS 64bits, Linux 32/64bits operating systems</td>
+</tr>
+<tr>
+<td><a href="/">Main Application</a></td>
+<td align="left">Blender 3D (Git Releases, Codebase C++/Python, Core RNA)</td>
+</tr>
+<tr>
+<td><a href="/">Sound Engine</a></td>
+<td align="left">Audaspace (C++, Modules and Classes)</td>
+</tr>
+<tr>
+<td><a href="/">Audio Devices</a></td>
+<td align="left">WASAPI, SDL...(ASIO)</td>
+</tr>
+<tr>
+<td><a href="/">Audio Level Unit</a></td>
+<td align="left">Decibel (dB), the Reference range is -60 <> 0dB, linear or dynamic (optional).</td>
+</tr>
+<tr>
+<td><a href="/">Audio Buffer Sizes</a></td>
+<td align="left">128...</td>
+</tr>
+<tr>
+<td><a href="/">Audio Formats</a></td>
+<td align="left">44100Hrz...</td>
+</tr>
+<tr>
+<td><a href="/">Sound Files</a></td>
+<td align="left">WAV, MP3,...</td>
+</tr>
+<tr>
+<td><a href="/">Audio Channels</a></td>
+<td align="left">0...8, None, 1 to 8 channels (Mono to Surround 7.1)</td>
+</tr>
+</table>
+
+---
+
+## :radio_button: Development Strategy and GSoc Proposal (In Progress)
 
 
 - **PART 1:  [Development Methodology](audio-dev-strategy.md)**
