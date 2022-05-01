@@ -1,6 +1,6 @@
 # Blender Audio NEW Operators & Properties
 
-- TRANSPORT Operators: [Play & Stop](), [Forward & Backward](), [Record & Overdub]()
+- TRANSPORT Operators: [Strip Play & Stop](), [Strip Forward & Backward](), [Strip Record & Overdub]()
 - DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 - FILE Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk]()
 
