@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<th align="left", width="250">Audio Operators</th>
+<th align="left", width="250">Audio Operator Types</th>
 <th align="left", width="632">Features</th>
 </tr>
   
