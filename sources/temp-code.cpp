@@ -1,4 +1,5 @@
-# This code is not C++ (it is a GD script template) but the logic is the same
+# This code is not C++ (it is a GD script template of mine) but the logic is the same
+# TODO need to search for my personal c++ codes library (> Audio Level Meters made with Juce - 2019)
 
 const VU_COUNT=1
 const FREQ_MAX = 11050.0
