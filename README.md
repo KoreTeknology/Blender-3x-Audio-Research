@@ -8,7 +8,7 @@
 
 This current documentation is intended to demonstrate the requested audio features in the context of editing audio contents/data within **Blender**[^1] itself, the well known Free and Open Source 3D application and **Audaspace**[^2] the Audio C++ Library built in Blender to process digital audio. It is mainly used in the **video sequencer editor (VSE)** for playing Audio strips and **3D Space** as 3D Speaker Objects.
 
-Here, i want to present specific [features]() which will make it possible to work on the [audio data](), including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this **[proposal]()** is focused on:
+Here, i want to present specific [features]() which will make it possible to work on the [audio data](), including **routing, processing and visualizations**. For all users with basic needs in terms of **Audio Mixing**, this **[proposal](#radio_button-development-strategy-and-gsoc-proposal)** is focused on:
 - **Media Productivity**[^3]
 - **VR/AR Art and Experiments** 
 - **Multiverse and Surround Contents creation**
