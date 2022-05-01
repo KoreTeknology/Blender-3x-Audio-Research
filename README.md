@@ -71,7 +71,13 @@ The main goal is to build a new patch (or maybe a Git Branch) to present to the 
 - VSE customizations Addon [Repo](https://github.com/Botmasher/blender-vse-customizations)
 - VSE Text to Speech Addon [Repo](https://github.com/technisculpt/blender-text-to-speech-gtts)
 
+### DevTalks Users Proposals
+
+- [Proposal VSE Nodes](https://devtalk.blender.org/t/proposal-using-compositor-nodes-on-vse-strips/21732)
+
 TO BE CONTINUED...
+
+
 
 ---
 
