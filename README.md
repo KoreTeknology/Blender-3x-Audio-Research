@@ -86,7 +86,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 </tr>
 <tr>
 <td><a href="/">Audio Devices</a></td>
-<td align="left">WASAPI (DirectAudio, ASIO), OpenAL, OpenAL Soft, SDL</td>
+<td align="left">WASAPI (Pulseaudio, Coreaudio, ASIO), OpenAL, OpenAL Soft, SDL</td>
 </tr>
 <tr>
 <td><a href="/">Audio Output Channels</a></td>
