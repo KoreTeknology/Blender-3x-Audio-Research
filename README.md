@@ -46,6 +46,9 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
   - [Sources](sources/sources-intro.md)
 
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas2.jpg)
+
+
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas.jpg)
 
 > This document is not a definitive version yet! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
