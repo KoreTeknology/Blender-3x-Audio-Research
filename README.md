@@ -32,8 +32,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 
 - :one: **[Development Methodology](audio-dev-strategy.md)**
-  - *[Priorities](audio-dev-strategy.md)*
-  - [Sources](sources/sources-intro.md), Notes, List
+  - *[Priorities](audio-dev-strategy.md), [Sources](sources/sources-intro.md), [Diff](sources/sources-intro.md), [Notes](notes.md)*
 - :two: **[New General Audio Features & System Preferences](proposal-audio-system.md)**
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
