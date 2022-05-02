@@ -150,9 +150,9 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ## :radio_button: History
 
-> **2022 May** - Basic Audio Preferences rewriting, [Tasks list](Tasks.md)
+> **2022 May** - Basic Audio Preferences rewriting, Vu-meter Class, [Tasks list](Tasks.md)
 >
-> **2022 Abril** - First Dev Planning and ideas, [Tasks list](Tasks.md)
+> **2022 Abril** - First Dev Planning and ideas, Files and contents structure
 >
 > **2016 March** - First Sequencer Script/Addon Development, Strips Management
 > 
