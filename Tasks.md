@@ -1,11 +1,17 @@
-## Project Tasks List
+# Project Tasks List
 
-- [x] Documentation Structure and content models
-- [x] External references
-- [x] Research topics and Objectives
-- [ ] Related code sources
+- [x] Related code sources
+- [ ] Vu-meter Class, Diff
+- [ ] Inputs "Connectors" and Recording Investigation
 - [ ] Features Proposals
 - [ ] GUI Proposals
+
+---
+
+- [x] Research topics and Objectives
+- [x] Documentation Structure and content models
+- [x] External references
+
 
 
 
