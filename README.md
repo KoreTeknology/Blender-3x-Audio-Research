@@ -88,10 +88,6 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">None</td>
 </tr>
 <tr>
-<td><a href="/">Audio Level Unit</a></td>
-<td align="left">Decibel (dB), -60 <> 0dB range, linear/Exp.</td>
-</tr>
-<tr>
 <td><a href="/">Audio Mixing Buffer Sizes</a></td>
   <td align="left">256, 512, 1024, 2048, 4096, 8192, 16384, <b>32768</b></td>
 </tr>
@@ -108,8 +104,12 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">AC3, FLAC, MKV, MP2, MP3, OGG, WAV</td>
 </tr>
 <tr>
+<td><a href="/">Audio Level Unit</a></td>
+<td align="left">Decibel (dB), -60 <> 0dB range, linear/Exp.</td>
+</tr>
+<tr>
 <td><a href="/">Scene Audio Main Volume</a></td>
-  <td align="left">0...<b>10000?</b></td>
+  <td align="left">Value: 0...<b>10000?</b></td>
 </tr>
 <tr>
 <td><a href="/">Scene Audio Distance Models</a></td>
