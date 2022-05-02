@@ -2,7 +2,7 @@
 
 > **Work in Progress** [Last Updated: 01-05-2022]() by Uriel Deveaud (AKTIV25)
 
-<img src="https://img.shields.io/badge/Blender-3.1+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" /> 
+<img src="https://img.shields.io/badge/Blender-3+-green" /> <img src="https://img.shields.io/badge/Audaspace-C++-purple" /> <img src="https://img.shields.io/badge/Gsoc-2023-orange" /> 
 
 ## :radio_button: Introduction
 
@@ -150,6 +150,8 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ## :radio_button: History
 
+> **2022 May** - Basic Audio Preferences rewriting, [Tasks list](Tasks.md)
+>
 > **2022 Abril** - First Dev Planning and ideas, [Tasks list](Tasks.md)
 >
 > **2016 March** - First Sequencer Script/Addon Development, Strips Management
