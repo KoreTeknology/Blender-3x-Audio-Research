@@ -21,30 +21,77 @@
 </tr>
 <table>
 
+<table>
+<tr>
+<th align="left", width="200">Transport Ops Types</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
+</tr>
+ 
+<tr>
+<td><a href="">Strip_Edit_Play</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">strip_Edit_Pause</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>  
+<tr>
+<td><a href="">strip_Edit_Stop</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">strip_Edit_Reverse</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+</table> 
+  
+<table>
+<tr>
+<th align="left", width="200">Mixbus Ops Types</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
+</tr>
+ 
+<tr>
+<td><a href="">Mixbus_Bus_Leveler</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+</table> 
 
 <table>
 <tr>
-<th align="left", width="250">Audio Operator Types</th>
-<th align="left", width="632">Features</th>
+<th align="left", width="200"Dsp Ops Types</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
 </tr>
   
 <tr>
 <td><a href="">Gain Control</a></td>
+<td align="left">-</td>
 <td align="left">Volume data</td>
 </tr>
   
 <tr>
 <td><a href="">Sound Mix</a></td>
+<td align="left">-</td>
 <td align="left">Compute Audio Data Mix Buffer</td>
 </tr>
 
 <tr>
 <td><a href="">Audio Filters</a></td>
+<td align="left">-</td>
 <td align="left">LPF, BPF, HPF</td>
 </tr>
 
 <tr>
 <td><a href="">Equalizer</a></td>
+<td align="left">-</td>
 <td align="left">About the EQ, we have here many options:<br>
 <i>
 <ul><li>tri-bands (fixed freqs*) with gain (what i see here in your proposal)</li>
@@ -63,6 +110,7 @@ As well as the gain for that frequencies range, we should have a Q (curve shape 
   
 <tr>
 <td><a href="">Compresor/Limiter</a></td>
+<td align="left">-</td>
 <td align="left">Care signals</td>
 </tr>
 
