@@ -37,19 +37,25 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md), Notes, List
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas.jpg)
+
 - :three: **[New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
   - *[Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers]()*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md)
+
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas2.jpg)
+
 - :four: **[New Sound Mixer Space Features](proposal-sound-mixer.md)**
   - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas2.jpg)
 
 
-![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas.jpg)
+
+
 
 > This document is not a definitive version yet! I do add, remove and update many parts, "without announcement", to re-format the complete documentation. Stay tuned!
 
