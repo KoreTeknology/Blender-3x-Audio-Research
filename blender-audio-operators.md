@@ -66,7 +66,7 @@
 
 <table>
 <tr>
-<th align="left", width="200"Dsp Ops Types</th>
+<th align="left", width="200">Dsp Ops Types</th>
 <th align="left", width="132">State</th>
 <th align="left", width="582">Features</th>
 </tr>
