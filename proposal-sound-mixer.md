@@ -34,6 +34,10 @@ The Outputs Node is defined in the Channels Settings (Audio System Preferences)
 
 ### :speaker: Add Menu (SHIFT-A)
 
+> By DEFAULT the first Mix Bus is directly connected to the first available Output. A Mix Buses INPUT Node and a Device Outputs Nodes are loaded, their data are related to preferences and Scene Audio settings.
+> 
+![image](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/sound-area-nodes_add.jpg)
+
 - Inputs
 - Outputs
 - Filter
