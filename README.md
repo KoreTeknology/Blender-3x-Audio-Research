@@ -84,7 +84,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td align="left">0...8 (None, Mono to Surround 7.1)</td>
 </tr>
 <tr>
-<td><a href="/">Audio Intput Channels</a></td>
+<td><a href="/">Audio Input Channels</a></td>
 <td align="left">None</td>
 </tr>
 <tr>
