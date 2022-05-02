@@ -164,21 +164,29 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 >
 > **2022 Abril** - First Dev Planning and ideas, Files and contents structure
 >
+> **2017 Abril** - First Vst Plugin Development, Samples Players, Filters in C++
+>
 > **2016 March** - First Sequencer Script/Addon Development, Strips Management
 > 
 > **2014 February** - First Midi Script/Addon Development, Learning RTmidi C++ Lib
 > 
-> **2012 March** - First Movie Making workshop using the VSE (82 students over 3 years)
+> **2012 March** - First Movie Making workshop,teaching using the Blender VSE (82 students)
+>
+> **2011 January** - First Professional Blender Training, Design and Architecture (113 students)
 >
 > **2010 January** - First Audio Script/Addon Development, Learning Audaspace C++ Lib
 >
-> **2009 October** - First Professional Video Editing using Blender VSE
+> **2009 October** - First 3D Animation School Program, (185 students)
+>
+> **2008 October** - First Professional Video Editing using Blender VSE
 >
 > **2007 September** - First Blender Python Script Development
 >
 > **2005 June** - First Professional Animation Production using Blender
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
+>
+> **2001 September** - Audio Prosessing Hardware Development [Google Patents](https://patents.google.com/patent/FR2839601A1/en)
 
 ## :radio_button: Infos
 
