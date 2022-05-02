@@ -69,11 +69,11 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <th align="left", width="632">Details</th>
 </tr>
 <tr>
-<td><a href="/">Main OS Plateforms</a></td>
+<td><a href="#">Main OS Plateforms</a></td>
 <td align="left">Windows, MacOS, Linux (32/64bits operating systems)</td>
 </tr>
 <tr>
-<td><a href="/">Main Application</a></td>
+<td><a href="#">Main Application</a></td>
 <td align="left">Blender 3D</td>
 </tr>
 <tr>
