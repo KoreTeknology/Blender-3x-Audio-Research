@@ -2,10 +2,9 @@
 
 ### Main Structure
 
-Audaspace is built within a specific concept of Hardware/software to be able to connect virtual audio players to sources and listeners. The buffer is the container that store data and send it to the devices.
+TODO
 
-
-### The following (probably incomplete) features are supported by audaspace:
+### The following (probably incomplete) features are supported by audaspace: (TODO replace)
 
 - input/output devices: input from microphones, line in, etc., output devices including 3D audio support
 - file reading/writing
