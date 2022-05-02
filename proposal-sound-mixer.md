@@ -12,7 +12,9 @@
 
 ---
 
-### :speaker: Sound Mixer Nodes
+### :speaker: GUI Implementation
+
+1/ **New Sound Mixer Nodes Editor** 
 
 > By DEFAULT the first Mix Bus is directly connected to the first available Output. A Mix Buses INPUT Node and a Device Outputs Nodes are loaded, their data are related to preferences and Scene Audio settings.
 > 
@@ -30,9 +32,7 @@ The Outputs Node is defined in the Channels Settings (Audio System Preferences)
 - IF #channel_config = ```"Custom"```: Channels > **Outputs "SELECT"** (up to 8)
 
 
----
-
-### :speaker: Add Menu (SHIFT-A)
+2/ **New Add Sound Mixer Nodes Menu** 
 
 > By DEFAULT the first Mix Bus is directly connected to the first available Output. A Mix Buses INPUT Node and a Device Outputs Nodes are loaded, their data are related to preferences and Scene Audio settings.
 > 
