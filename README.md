@@ -28,7 +28,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ---
 
-## :large_blue_circle: [Development Strategy and GSoc Proposal (In Progress)]()
+## :large_blue_circle: Development Strategy and GSoc Proposal
 
 
 - :one: **[Development Methodology](audio-dev-strategy.md)**
