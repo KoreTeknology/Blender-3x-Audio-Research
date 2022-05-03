@@ -3,3 +3,7 @@
 ---
 
 # Matrix Routing References
+
+- Types of audio routings
+- Hardware compatibity
+- User Experiences
