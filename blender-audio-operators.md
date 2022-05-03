@@ -1,10 +1,11 @@
 # :fire: Blender Audio NEW Operators & Properties
 
 - TRANSPORT Operators: [Strip Play & Stop](), [Strip Forward & Backward](), [Strip Record & Overdub]()
-- DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 - FILE Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk]()
 - STRIP Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk](), [Mono](), [Modifiers]()
 - MIXBUS Operators:  [Bus Assign](), [Bus Volume](),  [Bus Master Volume](), [Bus Fx](),
+- VISUALIZATION Operators:  [Level-meters](), [Vu-meter](),  [Multi-channels](), [Bus Fx](),
+- DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 
 
 
@@ -92,12 +93,12 @@
 <tr>
 <td><a href="">Equalizer</a></td>
 <td align="left">-</td>
-<td align="left">About the EQ, we have here many options:<br>
+<td align="left">Multiple options:<br>
 <i>
-<ul><li>tri-bands (fixed freqs*) with gain (what i see here in your proposal)</li>
+<ul>
 <li>Single parametric band (very used in studio mastering)</li>
-<li>up to 12 bands (fixed freqs)</li>
-<li>tri-bands parametric (most common type)</li>
+<li>Tri-bands , up to 12 bands (fixed freqs)</li>
+<li>Tri-bands parametric (most common type)</li>
 <li>etc…</li>
   </ul></i>
 <b>Fixed bands EQ</b> (in case of tri-bands selection):
