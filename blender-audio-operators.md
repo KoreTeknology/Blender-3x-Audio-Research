@@ -1,3 +1,7 @@
+[<< Back to main page](/../..) ```Blender Audio Research - uriel Deveaud @2022 ```
+
+---
+
 # :fire: Blender Audio NEW Operators & Properties
 
 
