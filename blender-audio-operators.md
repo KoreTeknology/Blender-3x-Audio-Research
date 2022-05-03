@@ -5,7 +5,7 @@
 - STRIP Operators and Properties: [Open](), [Save](), [Reload](), [Replace](), [From Disk](), [Mono](), [Modifiers]()
 - TRANSPORT Operators and Properties: [Strip Play & Stop](), [Strip Forward & Backward](), [Strip Record & Overdub]()
 - MIXBUS Operators and Properties:  [Bus Assign](), [Bus Volume](),  [Bus Master Volume](), [Bus Fx](),
-- VISUALIZATION Operators and Properties:  [Level-meters](), [Vu-meter](),  [Multi-channels](), [Bus Fx](),
+- VISUALIZATION Operators and Properties:  [Level-meters](), [Vu-meter](),  [Multi-channels](), [Bus Fx](), [Spectral Analysis](). [Spectogram](), [Sound Field]()
 - DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 
 
@@ -23,7 +23,54 @@
 </tr>
 <table>
 
-## File Features
+## Visualization Features
+ 
+<table>
+<tr>
+<th align="left", width="200">Operators</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
+</tr>
+ 
+<tr>
+<td><a href="">Vu-level-meter</a></td>
+<td align="left">-</td>
+ <td align="left">A volume unit (VU) meter or standard volume indicator (SVI) is a device displaying a representation of the signal level in audio equipment.(<a href="https://en.wikipedia.org/wiki/VU_meter">Wikipedia</a>).<br><a href="https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/blender-audio-visualizations.md#1-vu-meter">See Research Details</a></td>
+</tr>
+<tr>
+<td><a href="">Vu-Spectrogram</a></td>
+<td align="left">-</td>
+<td align="left">A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time.(<a href="https://en.wikipedia.org/wiki/Spectrogram">Wikipedia</a>).</td>
+</tr>  
+<tr>
+<td><a href="">Vu-Fourier</a></td>
+<td align="left">-</td>
+<td align="left">(<a href="https://en.wikipedia.org/wiki/Fourier_analysis">Wikipedia</a>).</td>
+</tr> 
+</table> 
+ 
+<table>
+<tr>
+<th align="left", width="200">Properties</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
+</tr>
+ 
+<tr>
+<td><a href="">Master_level_meter</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">Strip_level_meter</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>  
+</table> 
+ 
+---
+ 
+ ## File Features
  
 ## Transport Features
  
