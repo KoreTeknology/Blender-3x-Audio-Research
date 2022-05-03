@@ -1,10 +1,11 @@
 # :fire: Blender Audio NEW Operators & Properties
 
-- TRANSPORT Operators: [Strip Play & Stop](), [Strip Forward & Backward](), [Strip Record & Overdub]()
-- FILE Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk]()
-- STRIP Operators: [Open](), [Save](), [Reload](), [Replace](), [From Disk](), [Mono](), [Modifiers]()
-- MIXBUS Operators:  [Bus Assign](), [Bus Volume](),  [Bus Master Volume](), [Bus Fx](),
-- VISUALIZATION Operators:  [Level-meters](), [Vu-meter](),  [Multi-channels](), [Bus Fx](),
+
+- FILE Operators and Properties: [Open](), [Save](), [Reload](), [Replace](), [From Disk]()
+- STRIP Operators and Properties: [Open](), [Save](), [Reload](), [Replace](), [From Disk](), [Mono](), [Modifiers]()
+- TRANSPORT Operators and Properties: [Strip Play & Stop](), [Strip Forward & Backward](), [Strip Record & Overdub]()
+- MIXBUS Operators and Properties:  [Bus Assign](), [Bus Volume](),  [Bus Master Volume](), [Bus Fx](),
+- VISUALIZATION Operators and Properties:  [Level-meters](), [Vu-meter](),  [Multi-channels](), [Bus Fx](),
 - DSP Operators and Properties: [Gain Control](blender-audio-gain.md), [Filters](blender-audio-filter.md), [Equalizer](blender-audio-equalizer.md), [Compressor & limiter](blender-audio-compressor.md), [Reverb & Delay](blender-audio-compressor.md), [Spatial audio](blender-audio-spatial.md)
 
 
@@ -22,9 +23,13 @@
 </tr>
 <table>
 
+## File Features
+ 
+## Transport Features
+ 
 <table>
 <tr>
-<th align="left", width="200">Transport Ops Types</th>
+<th align="left", width="200">Operators</th>
 <th align="left", width="132">State</th>
 <th align="left", width="582">Features</th>
 </tr>
@@ -50,6 +55,37 @@
 <td align="left"></td>
 </tr>
 </table> 
+ 
+<table>
+<tr>
+<th align="left", width="200">Properties</th>
+<th align="left", width="132">State</th>
+<th align="left", width="582">Features</th>
+</tr>
+ 
+<tr>
+<td><a href="">Strip_Edit_Play</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">strip_Edit_Pause</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>  
+<tr>
+<td><a href="">strip_Edit_Stop</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><a href="">strip_Edit_Reverse</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>
+</table> 
+ 
+---
   
 <table>
 <tr>
