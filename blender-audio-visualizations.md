@@ -1,3 +1,7 @@
+[<< Back to main page](/../..) ```Blender Audio Research - uriel Deveaud @2022 ```
+
+---
+
 # Blender NEW Visualizations Tools
 
 > Vu-Meters, Spectrum analysis, Stereo Images and others analysis tools
