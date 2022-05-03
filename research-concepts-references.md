@@ -1,3 +1,7 @@
+[<< Back to main page](/../..) ```Blender Audio Research - uriel Deveaud @2022 ```
+
+---
+
 # Main Project Concepts
 
 Based on Blender Audio Specifications and Audaspace Implementation: [Audio in Blender](blender-related-specs.md)
