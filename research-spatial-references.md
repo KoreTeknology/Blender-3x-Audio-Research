@@ -4,3 +4,7 @@
 
 # Spatial Audio
 
+- Surround last documentation and technologies
+- Panning and multi-channels control
+- Psycho-acoustic environments
+- Formats and standards
