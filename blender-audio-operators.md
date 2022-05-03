@@ -51,6 +51,11 @@
 <td align="left"  valign="top">-</td>
 <td align="left">(<a href="https://en.wikipedia.org/wiki/Fourier_analysis">Wikipedia</a>).</td>
 </tr> 
+<tr>
+<td  valign="top"><a href="">Vu-Phase</a><br><sub>Type: VU_audioMeter</sub></td>
+<td align="left"  valign="top">-</td>
+<td align="left"></td>
+</tr> 
 </table> 
  
 <table>
