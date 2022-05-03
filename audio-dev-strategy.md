@@ -15,6 +15,15 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - Add Audio Editor Area (type NodeGroups)
 - Add Vu-meters, Add Fx/Filters, Add Generators
 
+Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. 
+
+I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features and its usage, the default audio setup will apply.
+
+**The final decision was made, regarding 3 focused developments agendas:**
+- [Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)]()
+- [Sequencer Sound Strip Properties and Operators (Mix Bus and Modifiers)]()
+- [Advanced Mixer Setup within a new Editor space (Complex routing/Processing)]()
+
 Changes are:
 - **Audio system Preferences** (regarding the channels model, add device outputs connection selection
 - **Audio File/Project Settings** (Number of buses)
@@ -27,15 +36,6 @@ Changes are:
 > By DEFAULT, Number of SubMix Buses = Number of Device Outputs and Channels Configuration!
 > 
 > User can Add an Audio Mix Bus in the Audio Nodes window area
-
-Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. 
-
-I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features and its usage, the default audio setup will apply.
-
-**The final decision was made, regarding 3 focused developments agendas:**
-- [Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)]()
-- [Sequencer Sound Strip Properties and Operators (Mix Bus and Modifiers)]()
-- [Advanced Mixer Setup within a new Editor space (Complex routing/Processing)]()
 
 ---
 
