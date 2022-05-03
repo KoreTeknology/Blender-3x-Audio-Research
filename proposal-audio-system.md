@@ -18,6 +18,8 @@ By DEFAULT, when the user is selecting the channels option in the Preferences pa
 - IF #channel_config = ```"Surround 7.1"```: Channels > **Outputs 1/2 AND 3/4 AND 5/6 AND 7/8**
 - IF #channel_config = ```"Custom"```: Channels > **Outputs "SELECT"** (up to 8)
 
+![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas.jpg)
+
 **Note:** *Depends on Channels "Device" settings (Driver Selection), user can select outputs configuration, based on soundcard specifications.*
 
 ### :speaker: Custom Channels
