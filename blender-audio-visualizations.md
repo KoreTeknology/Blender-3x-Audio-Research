@@ -32,3 +32,5 @@ We also have a "mute audio" button to control channels mixing. Apart from these 
 ### Option 4: A master channels in the "Sequencer window"
 
 ## The solutions
+
+At this time, the best option we have is to set an internal mixing/routing*
