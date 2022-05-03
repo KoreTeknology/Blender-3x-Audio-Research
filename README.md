@@ -186,7 +186,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
 >
-> **2001 September** - Audio/Midi Hardware Development [Google Patents](https://patents.google.com/patent/FR2839601A1/en)
+> **2001 September** - Audio/Midi Hardware Development [Google Patents: Real-time Surround Digital Mixer ](https://patents.google.com/patent/FR2839601A1/en)
 
 ## :radio_button: Infos
 
