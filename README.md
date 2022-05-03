@@ -22,6 +22,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 ## :radio_button: Ongoing works
 
 - [x] **Main Development Research:** **[Concepts References](research-concepts-references.md)** and **[Gui References](research-gui-references.md)**
+- [x] **Alternative Research:** **[Spatial Audio References](research-spatial-references.md)** and **[Matrix Routing References](research-spatial-references.md)**
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [ ] **GSoc 2023** [Presentation](proposal-gsoc-presentation.md) (Video, 3D Avatar, Surround Audio)
