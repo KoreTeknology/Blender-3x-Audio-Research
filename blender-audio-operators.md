@@ -33,17 +33,17 @@
 </tr>
  
 <tr>
-<td  valign="top"><a href="">Vu-level-meter</a></td>
+ <td  valign="top"><a href="">Vu-level</a><br><sub>Type: VU_audioMeter</sub></td>
 <td align="left"  valign="top">-</td>
  <td align="left">A volume unit (VU) meter or standard volume indicator (SVI) is a device displaying a representation of the signal level in audio equipment.(<a href="https://en.wikipedia.org/wiki/VU_meter">Wikipedia</a>).<br><a href="https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/blender-audio-visualizations.md#1-vu-meter">See Research Details</a></td>
 </tr>
 <tr>
-<td  valign="top"><a href="">Vu-Spectrogram</a></td>
+<td  valign="top"><a href="">Vu-Spectrogram</a><br><sub>Type: VU_audioMeter</sub></td>
 <td align="left"  valign="top">-</td>
 <td align="left">A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time.(<a href="https://en.wikipedia.org/wiki/Spectrogram">Wikipedia</a>).</td>
 </tr>  
 <tr>
-<td  valign="top"><a href="">Vu-Fourier</a></td>
+<td  valign="top"><a href="">Vu-Fourier</a><br><sub>Type: VU_audioMeter</sub></td>
 <td align="left"  valign="top">-</td>
 <td align="left">(<a href="https://en.wikipedia.org/wiki/Fourier_analysis">Wikipedia</a>).</td>
 </tr> 
