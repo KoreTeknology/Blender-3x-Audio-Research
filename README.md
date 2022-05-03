@@ -186,7 +186,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 >
 > **2002 December** - First 3D Model Production using Blender Free Software
 >
-> **2001 September** - Audio/Midi Hardware Development[^6] 
+> **2001 September** - First Audio/Midi Hardware Development[^6] 
 
 ## :radio_button: Infos
 
@@ -199,7 +199,7 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 [^3]: In This case, Blender is used as a Audio/Video Sequencer Editor
 [^4]: The Blender Foundation (2002) is an independent public benefit organization with the purpose to provide a complete, free and open source 3D creation pipeline, managed by public projects on blender.org.
 [^5]: **GSoc** or **Google Summer of Code** is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
-[^6]: **Google Patents:** [Google Patents: Real-time Surround Digital Mixer ](https://patents.google.com/patent/FR2839601A1/en)
+[^6]: **Google Patents:** [Google Patents: Real-time Surround Digital Mixer ](https://patents.google.com/patent/FR2839601A1/en) by uriel Deveaud @2001
 [^note]:
     This work is dedicated to **all Blender users** ;) and the **Free Software Foundation Members**.
     I do this work in my free time, without any profit, enjoy!
