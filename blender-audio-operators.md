@@ -176,7 +176,7 @@
 <tr>
 <td><a href="">Equalizer</a></td>
 <td align="left">-</td>
-<td align="left">Multiple options:<br>
+<td align="left">Equalization in sound recording and reproduction is the process of adjusting the volume of different frequency bands within an audio signal. (<a href="https://en.wikipedia.org/wiki/Equalization_(audio)">Wikipedia</a>). Multiple options:<br>
 <i>
 <ul>
 <li>Single parametric band (very used in studio mastering)</li>
