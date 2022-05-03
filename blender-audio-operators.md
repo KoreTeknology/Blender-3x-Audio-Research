@@ -56,6 +56,16 @@
 <td align="left"  valign="top">-</td>
 <td align="left"></td>
 </tr> 
+<tr>
+<td  valign="top"><a href="">Vu-Spectral</a><br><sub>Type: VU_audioMeter</sub></td>
+<td align="left"  valign="top">-</td>
+<td align="left"></td>
+</tr> 
+<tr>
+<td  valign="top"><a href="">Vu-Field</a><br><sub>Type: VU_audioMeter</sub></td>
+<td align="left"  valign="top">-</td>
+<td align="left"></td>
+</tr> 
 </table> 
  
 <table>
