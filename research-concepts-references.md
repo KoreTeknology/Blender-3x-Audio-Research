@@ -73,7 +73,7 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Audio Visualizations</a></td>
-<td align="left"></td>
+<td align="left">in VSE sequencer window? (no), in VSE preview window? (why not). </td>
 </tr>
 <tr>
 <td><a href="">Audio Vu-Meters</a></td>
