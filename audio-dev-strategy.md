@@ -8,13 +8,24 @@
 
 The main objective is to **revise the Blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
 
-- Review of the complete Audio system within Blender
-- Explore New **Audio system Preferences**
-- Explore New **Audio features** (Record, Edit, Mix Buses)
-- Add system preferences data, Channels data, Bus mixer
-- Add Sound Mixer Area (type NodeGroups)
-- Add Audio Clip Editor Area (type Video Clip Editor)
-- Add Vu-meters, Add Fx/Filters modifiers, Add Generators,etc...
+:one: Review of the complete Audio system within Blender
+
+:two: Explore New **Audio system Preferences** and **Eco-system**
+
+:three: Add New system preferences, **Output Channels**, (Channels, Device outputs)
+
+:four: Add New Scene Properties, **Mix Bus Channels** (user setting)
+
+:five: Add New Sequencer Audio **Strip Properties** (Mix Bus), add Sound strip Preview
+
+:six: Add **Sound Mixer** Area (Default setups)
+
+:seven: Add **Audio Clip Editor** Area (type Video Clip Editor), add Fx/Filters modifiers
+
+:eight: Add sound **Visualizations** (real time), e.g. Vu-meter
+
+:nine: Explore New **Sound features** (Record, Surround Fx, Sub-Mix, Generators)
+
 
 ```diff
 + Keeping in mind that we are NOT making Blender looking like a Digital Audio workstation (DAW), 
