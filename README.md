@@ -19,6 +19,13 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ---
 
+## :radio_button: In short...
+
+- :ballot_box_with_check: **[Development Methodology](audio-dev-strategy.md)**
+  - *[Priorities](audio-dev-strategy.md), [Sources](sources/sources-intro.md), [Diff](sources/sources-intro.md), [Notes](notes.md)*
+
+---
+
 ## :radio_button: Ongoing works
 
 - [x] **Main Development Research References:** **[Concepts](research-concepts-references.md)**, **[GUI](research-gui-references.md)**, **[Spatial Audio](research-spatial-references.md)** and **[Matrix Routing](research-matrix-references.md)**
