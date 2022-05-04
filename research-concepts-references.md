@@ -49,7 +49,7 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Strip Bus Property</a></td>
-<td align="left">Assign Buses to Strip. Each sound sequence can be routed to one specific Mixing Bus.</td>
+<td align="left">Assign a Bus to a Sound Strip. Each sound sequence can be routed to one specific Mixing Bus.</td>
 </tr>
 <tr>
 <td><a href="">Audio Mixdown</a></td>
