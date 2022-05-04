@@ -19,16 +19,10 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ---
 
-## :radio_button: In short...
-
-- :ballot_box_with_check: **[Development Methodology](audio-dev-strategy.md)**
-  - *[Priorities](audio-dev-strategy.md), [Sources](sources/sources-intro.md), [Diff](sources/sources-intro.md), [Notes](notes.md)*
-
----
-
 ## :radio_button: Ongoing works
 
-- [x] **Main Development Research References:** **[Concepts](research-concepts-references.md)**, **[GUI](research-gui-references.md)**, **[Spatial Audio](research-spatial-references.md)** and **[Matrix Routing](research-matrix-references.md)**
+- [x] **Main Development Research References:** **[Concepts](research-concepts-references.md)**, **[Strategy](audio-dev-strategy.md)**, **[GUI](research-gui-references.md)**, 
+- [ ] **Additional Research:** **[Spatial Audio](research-spatial-references.md)** and **[Matrix Routing](research-matrix-references.md)**
 - [x] **Personal documentation:** [Blender](blender-related-specs.md) and [Audaspace](audaspace-related-specs.md) related specifications.
 - [x] **Features Development:** [Visualization Tools](blender-audio-visualizations.md) and [Operators and Properties](blender-audio-operators.md)
 - [ ] **GSoc 2023** [Presentation](proposal-gsoc-presentation.md) (Video, 3D Avatar, Surround Audio)
@@ -37,30 +31,27 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 
 ## :large_blue_circle: Development Strategy and GSoc Proposal
 
-
-- :one: **[Development Methodology](audio-dev-strategy.md)**
-  - *[Priorities](audio-dev-strategy.md), [Sources](sources/sources-intro.md), [Diff](sources/sources-intro.md), [Notes](notes.md)*
-- :two: **[New General Audio Features & System Preferences](proposal-audio-system.md)**
+- :one: **[New General Audio Features & System Preferences](proposal-audio-system.md)**
   - *[Channels Options](proposal-audio-system.md#speaker-channels-options), [Custom Channels](proposal-audio-system.md#speaker-custom-channels), [Channels Outputs Configuration](proposal-audio-system.md#speaker-channels-outputs-configuration), [Gui Implementation](proposal-audio-system.md#speaker-gui-implementation)*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md), Notes, List
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas.jpg)
 
-- :three: **[New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
+- :two: **[New Sequencer Sound Strip Properties](proposal-audio-clip.md)**
   - *[Mixer Properties](), [Sound_Strip Output Bus Assign](), [Device Main Mixer](), [Sound Modifiers](), [Preview]()*
   - Classes, Properties, Operators, Device, Device_channels, Device_output_Name
   - [Sources](sources/sources-intro.md)
 
 ![Mix](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/bas2.jpg)
 
-- :four: **[New Sound Mixer Space Features](proposal-sound-mixer.md)**
+- :three: **[New Sound Mixer Space Features](proposal-sound-mixer.md)**
   - *[Sound Mixer Space](), [Audio Signals](), [Audio Nodes](), [Animate](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
 > Opt
 
-- :five: **[New Sound Clip Editor Features (Optional)](proposal-sound-mixer.md)**
+- :four: **[New Sound Clip Editor Features (Optional)](proposal-sound-mixer.md)**
   - *[Clip Editor](), [Markers](), [Fades](), [Export](), [FX Processing]()*
   - [Sources](sources/sources-intro.md)
 
