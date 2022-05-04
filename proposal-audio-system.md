@@ -105,8 +105,8 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 ``` - **Link: TEST**: Short presentation video  ```
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qEABfRxnKNQ
-" target="_blank"><img src="images/youtube_band.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" border="10" /></a>
+" target="_blank" rel="noopener"><img src="images/youtube_band.jpg" 
+alt="IMAGE ALT TEXT HERE" width="100%" border="1" /></a>
 
 
 
