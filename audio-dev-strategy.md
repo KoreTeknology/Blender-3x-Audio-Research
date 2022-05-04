@@ -6,7 +6,7 @@
 
 ### Objectives
 
-The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
+The main objective is to **revise the Blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
 
 - Review of the complete Audio system within Blender
 - Explore New **Audio system Preferences**
@@ -25,7 +25,7 @@ I also consider any changes from the user´s point of view. **A discrete impleme
 - [Advanced Mixer Setup within a new Editor space (Complex routing/Processing)]()
 
 Changes are:
-- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
+- **Audio system Preferences** (regarding the channels model, add device outputs connection selection)
 - **Audio File/Project Settings** (Number of buses)
 - **Export Mixdown** (optional multi files, e.g. ToMono output single files)
 - **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
