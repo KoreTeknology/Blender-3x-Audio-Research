@@ -100,14 +100,15 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 - [x] ADD **MixBus Input Selection** > TYPES (INT, STR, ...)
 
-> Files:
-> 
-```diff
-- **Blender Struct**: Audio_Preferences_NEW_Settings_Channels
-+ **Change #01:** The Audio Preference settings includes audio routing and Soundcard options.
-```
+---
 
-``` - **Blender Struct**: Audio_Preferences_NEW_Settings_Channels  ```
+``` - **Link: TEST**: Short presentation video  ```
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qEABfRxnKNQ
+" target="_blank"><img src="images/youtube_band.jpg" 
+alt="IMAGE ALT TEXT HERE" width="100%" border="10" /></a>
+
+
 
 ---
 
