@@ -52,8 +52,12 @@ This is a Research pool for that project. Once the concepts is written and code 
 <td align="left">Assign a Bus to a Sound Strip. Each sound sequence can be routed to one specific Mixing Bus.</td>
 </tr>
 <tr>
-<td><a href="">Audio Mixdown</a></td>
+<td><a href="">Audio Mixdown Master</a></td>
 <td align="left">Export Channel Strips, regarding the output channels settings in system preferences.</td>
+</tr>
+<tr>
+<td><a href="">Audio Mixdown Mixbus</a></td>
+<td align="left">Export Channel Strips, regarding the user´s scene MixBus settings in scene properties.</td>
 </tr>
 <tr>
 <td><a href="">Audio Unit</a></td>
