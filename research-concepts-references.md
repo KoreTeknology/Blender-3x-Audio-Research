@@ -45,7 +45,7 @@ This is a Research pool for that project. Once the concepts is written and code 
 </tr>
 <tr>
 <td><a href="">Bus Mixer Routing</a></td>
-<td align="left">The Mixing Channels. The internal audio routing includes a Bus mixing areawhere user can define his sound strategy.</td>
+<td align="left">The Mixing Channels. The internal audio routing includes a Bus mixing area where user can define his sound strategy.</td>
 </tr>
 <tr>
 <td><a href="">Strip Bus Property</a></td>
