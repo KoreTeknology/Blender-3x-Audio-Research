@@ -57,15 +57,25 @@
 <td align="left"></td>
 </tr> 
 <tr>
-<td  valign="top"><a href="">Vu-Spectral</a><br><sub>Type: VU_audioMeter</sub></td>
+<td  valign="top"><a href="">Vu-spectral</a><br><sub>Type: VU_audioMeter</sub></td>
 <td align="left"  valign="top">-</td>
-<td align="left"></td>
+<td align="left">Real Time Spectrum Analyzer (RTA)</td>
 </tr> 
 <tr>
-<td  valign="top"><a href="">Vu-Field</a><br><sub>Type: VU_audioMeter</sub></td>
+<td  valign="top"><a href="">Vu-field</a><br><sub>Type: VU_audioMeter</sub></td>
 <td align="left"  valign="top">-</td>
 <td align="left"></td>
-</tr> 
+</tr>
+<tr>
+<td  valign="top"><a href="">Vu-correlator</a><br><sub>Type: VU_audioMeter</sub></td>
+<td align="left"  valign="top">-</td>
+<td align="left">Stereo Image Tool</td>
+</tr>
+<tr>
+<td  valign="top"><a href="">Vu-vectorscope</a><br><sub>Type: VU_audioMeter</sub></td>
+<td align="left"  valign="top">-</td>
+<td align="left"></td>
+</tr>
 </table> 
  
 <table>
@@ -80,6 +90,11 @@
 <td align="left">-</td>
 <td align="left"></td>
 </tr>
+<tr>
+<td><a href="">Strip_level_meter</a></td>
+<td align="left">-</td>
+<td align="left"></td>
+</tr>  
 <tr>
 <td><a href="">Strip_level_meter</a></td>
 <td align="left">-</td>
