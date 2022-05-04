@@ -86,8 +86,6 @@ This is a Research pool for that project. Once the concepts is written and code 
  
 </table>
 
-## New Concept I: Mix Buses and Effects
-
 
 ### Audio Routing
 This option includes a Mix Buses routing interface between the audio strips and the Master-to-Devices outputs.
@@ -95,11 +93,10 @@ This option includes a Mix Buses routing interface between the audio strips and 
 - Options are: **Audio Strip Bus** (depends on preferences)
 - Default connections: **Bus ST 1 > Output 1+2** ...
 
-![Mixbuses](https://github.com/KoreTeknology/Blender-3x-Audio-Research/blob/main/images/mixbuses_concept.jpg)
-
 **Notes:** The user actions on sounds is limited in sequencer view, alternative view for edit.
-IF Audio Fx is placed between the mix buses and the Master Output buses, 
-  Audio nodes system is permited.
+IF Audio Fx are placed between the Mix buses and the Output channels, 
+  Sound Nodes become a a goodoption to work with audio sequences "groups" or sub-mix or "Mix Bus",
+  whatever they are placed in the sequencer channels and be adjusted together.
 
 
 
