@@ -131,6 +131,14 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
 <td><a href="/">Sound Sequence Strips</a></td>
 <td align="left">Direct to "Master" Audio Outputs (user preferences)</td>
 </tr>
+<tr>
+<td><a href="/">Sound Sequence Volume</a></td>
+<td align="left">0.00...<b>100.00?</b> (1.00 is 100%)</td>
+</tr>
+<tr>
+<td><a href="/">Sound Sequence Pitch Adjust</a></td>
+<td align="left">0.10...<b>10.00?</b> (1.00 is 0% +/-)</td>
+</tr>
 </table>
 
 ---
