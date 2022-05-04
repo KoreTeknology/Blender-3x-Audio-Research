@@ -15,7 +15,12 @@ The main objective is to **revise the Blender´s audio system, in order to allow
 - Add Audio Editor Area (type NodeGroups)
 - Add Vu-meters, Add Fx/Filters, Add Generators
 
-Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features, the default audio setup will apply.
+```diff
++ Keeping in mind that we are NOT making Blender looking like a Digital Audio workstation (DAW), 
++ we want to focus on the most relevant audio processing implementation to support future developments.
+```
+
+My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. I also consider any changes from the user´s point of view. **A discrete implementation for the users is required**. As long as the user doesn´t look for Audio mixing features, the default audio setup will apply (Stereo channel, 1 Stereo Mix Bus, 2 outputs channels)
 
 **3 focused developments agendas:**
 - [Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)]()
