@@ -102,7 +102,7 @@ The Scene Panel includes options,regarding the channels count and preferences (V
 
 ---
 
-``` - **Link: TEST**: Short presentation video  ```
+**Link: TEST**: ```  Short presentation video  ```
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qEABfRxnKNQ
 " target="_blank" rel="noopener"><img src="images/youtube_band.jpg" 
