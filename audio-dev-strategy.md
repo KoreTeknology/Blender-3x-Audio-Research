@@ -6,7 +6,7 @@
 
 ### Objectives
 
-The main objective is to **revise the blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
+The main objective is to **revise the Blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
 
 - Review of the complete Audio system within Blender
 - Explore New **Audio system Preferences**
@@ -15,9 +15,7 @@ The main objective is to **revise the blender´s audio system, in order to allow
 - Add Audio Editor Area (type NodeGroups)
 - Add Vu-meters, Add Fx/Filters, Add Generators
 
-Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. 
-
-I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features and its usage, the default audio setup will apply.
+Keeping in mind that we are **NOT** making Blender looking like a **Digital Audio workstation DAW**, we want to focus on the most relevant audio processing implementation to support the users tasks during Animation and Movie production. My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. I also consider any changes from the user´s point of view. **A discrete implementation with "no forced settings" is requested**. As long as the user doesn´t look for Audio mixing features, the default audio setup will apply.
 
 **The final decision was made, regarding 3 focused developments agendas:**
 - [Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)]()
@@ -25,7 +23,7 @@ I also consider any changes from the user´s point of view. **A discrete impleme
 - [Advanced Mixer Setup within a new Editor space (Complex routing/Processing)]()
 
 Changes are:
-- **Audio system Preferences** (regarding the channels model, add device outputs connection selection
+- **Audio system Preferences** (regarding the channels model, add device outputs connection selection)
 - **Audio File/Project Settings** (Number of buses)
 - **Export Mixdown** (optional multi files, e.g. ToMono output single files)
 - **Audio Nodes Window area** (Inputs, Buses Inputs, Output Files, Device Outputs
