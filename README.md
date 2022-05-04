@@ -124,12 +124,12 @@ Here, i want to present specific [features](#radio_button-ongoing-works) which w
   <td align="left">None, Inverse, Linear, Exponent (Clamped)</td>
 </tr>
 <tr>
-<td><a href="/">Sequence Strips</a></td>
-<td align="left">Inf. (Mu)</td>
-</tr>
-<tr>
 <td><a href="/">Sequencer Channels</a></td>
 <td align="left">128</td>
+</tr>
+<tr>
+<td><a href="/">Sound Sequence Strips</a></td>
+<td align="left">Direct to "Master" Audio Outputs (user preferences)</td>
 </tr>
 </table>
 
