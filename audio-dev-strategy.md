@@ -4,9 +4,7 @@
 
 ## Development Strategy and Methodology
 
-### Objectives
-
-The main objective is to **revise the Blender´s audio system, in order to allow the development of new functionalities in the field of sound edition**. The goal is to include basic audio editing functions to be available to the user in the context of video editing, VR/AR Production and Surround Video Clip Creation.
+### Objectives:
 
 :one: Review of the complete Audio system within Blender
 
