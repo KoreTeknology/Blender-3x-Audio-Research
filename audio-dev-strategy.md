@@ -30,7 +30,7 @@
 + we want to focus on the most relevant audio processing implementation to support future developments.
 ```
 
-My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. I also consider any changes from the user´s point of view. **A discrete implementation for the users is required**. As long as the user doesn´t look for Audio mixing features, the default audio setup will apply (Stereo channel, 1 Stereo Mix Bus, 2 outputs channels)
+My approach is to look at the fundamental audio settings and preferences before going further. At this very beginning stage, a more **advanced preferences panel** is necessary. I also consider any changes from the user´s point of view. **A discrete implementation for the users is required**. As long as the user doesn´t look for Audio mixing features, the default audio setup will apply (Stereo channel, 1 Stereo Mix Bus, 2 Outputs channels, Device channel´s settings)
 
 **3 focused developments agendas:**
 - [Preferences and Default Sound Mixer Setup (from 1 to 16 output channels)]()
