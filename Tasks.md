@@ -23,6 +23,19 @@
 
 ---
 
+## Images
+
+- [ ] Frontcover: Proposal: 1
+- [ ] GUI: Proposal: 1
+- [x] Frontcover: Proposal: 2
+- [x] GUI: Proposal: 2
+- [x] Frontcover: Proposal: 3
+- [x] GUI: Proposal: 3
+- [ ] Frontcover: Proposal: 4
+- [ ] GUI: Proposal: 4
+- [ ] Frontcover: Proposal: 5
+- [ ] GUI: Proposal: 5
+
 ## General
 
 - [x] Related code sources
