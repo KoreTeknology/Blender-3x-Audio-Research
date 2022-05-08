@@ -5,6 +5,8 @@
 - **Sequencer channels** [SEQ_channels.h](#blendersequencerseq_channelsh)
 - **Blender Kernel** [BKE_sound.h](#blenderblenkernelbke_soundh)
 
+[Diff VSE](https://developer.blender.org/D14412)
+
 ---
 
 ## [blender/sequencer/SEQ_sound.h](https://github.com/blender/blender/blob/master/source/blender/sequencer/SEQ_sound.h)
